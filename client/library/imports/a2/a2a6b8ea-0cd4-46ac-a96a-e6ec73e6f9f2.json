@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_checkbox",
+    "texture": "4ee456a6-cb56-4ce8-9989-7f2c99b60e71",
+    "atlas": "77a22fa9-8c21-48d1-86d8-d06e42765995",
+    "rect": [
+      312,
+      1381,
+      33,
+      35
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      43,
+      43
+    ],
+    "rotated": 1
+  }
+}

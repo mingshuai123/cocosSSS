@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "n_setting_bar_bg_new",
+    "texture": "8a367b68-f1f8-41b1-926f-d073a0ac48db",
+    "atlas": "64b32f64-02b3-4bc4-8da4-6023fdad8176",
+    "rect": [
+      1257,
+      87,
+      447,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      447,
+      28
+    ],
+    "capInsets": [
+      10,
+      0,
+      10,
+      0
+    ]
+  }
+}

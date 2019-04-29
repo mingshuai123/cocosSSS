@@ -1,0 +1,107 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "paixing.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "del-c": {
+      "__uuid__": "79dd9a4f-39f4-4e81-97d7-f31d5b506c87"
+    },
+    "del-g": {
+      "__uuid__": "7b7dabda-a336-4316-b056-f8580dc260b4"
+    },
+    "duizi-c": {
+      "__uuid__": "cd6c8f12-3e2b-4740-ac17-8c948633ab0f"
+    },
+    "duizi-g": {
+      "__uuid__": "6a7dfb97-9c00-4a51-b874-b6a223d90746"
+    },
+    "duizi-l": {
+      "__uuid__": "8188f6db-3a74-4206-ba78-3dd8e2ab33a9"
+    },
+    "hulu-c": {
+      "__uuid__": "a692c4bc-ed78-47b7-a18f-6cc21f0f7dd9"
+    },
+    "hulu-g": {
+      "__uuid__": "cad56799-58d6-45f5-abc9-c004df3b19c7"
+    },
+    "hulu-l": {
+      "__uuid__": "fd8cdd1f-9647-44cb-be15-6ab6511a2637"
+    },
+    "liandui-c": {
+      "__uuid__": "82cce29e-4d5a-4370-9f99-85be4f6a54b2"
+    },
+    "liandui-g": {
+      "__uuid__": "913f81dd-e28f-4003-aea3-7d4e6ff25a72"
+    },
+    "liandui-l": {
+      "__uuid__": "80733a9a-2b1d-4a08-996b-7fc2bb4cba5a"
+    },
+    "santiao-c": {
+      "__uuid__": "97f981e2-a093-4728-b0fd-9599376b3270"
+    },
+    "santiao-g": {
+      "__uuid__": "55b46cf4-0154-417e-be7b-34a83b347b46"
+    },
+    "santiao-l": {
+      "__uuid__": "88a9e8fd-169d-4001-8dc9-907d12fd4559"
+    },
+    "shunzi-c": {
+      "__uuid__": "d18155e1-16b3-4023-9f36-2df8f76fa5a5"
+    },
+    "shunzi-g": {
+      "__uuid__": "11e93339-64ba-4647-895b-862e1f415488"
+    },
+    "shunzi-l": {
+      "__uuid__": "578822f6-b00f-4779-8b67-c3078ea69e5a"
+    },
+    "teshupai-g": {
+      "__uuid__": "3f65f93e-6c15-4245-9dcf-e026f94503c3"
+    },
+    "teshupai": {
+      "__uuid__": "e0c34024-c485-49d3-b57e-59e49f9e4d47"
+    },
+    "ths-c": {
+      "__uuid__": "dad416ea-8561-427c-a657-d77758f4ade5"
+    },
+    "ths-g": {
+      "__uuid__": "9c8284c8-7e62-4251-98c1-2d3a61ac02e5"
+    },
+    "ths-l": {
+      "__uuid__": "38d94ebd-9706-4d40-9e83-12e297e5a90f"
+    },
+    "tiezhi-c": {
+      "__uuid__": "4831d083-a098-4a54-85b6-2ff7a109db2f"
+    },
+    "tiezhi-g": {
+      "__uuid__": "4c4d6184-3f68-4851-831f-a36c39d43b67"
+    },
+    "tiezhi-l": {
+      "__uuid__": "2dbc9768-7b4b-4d03-8ed8-accd0cfd76eb"
+    },
+    "tonghua-c": {
+      "__uuid__": "808f15bd-85f0-4bd7-829d-73bafa9b742c"
+    },
+    "tonghua-g": {
+      "__uuid__": "b78d3dc1-f434-477e-9b92-d6c91d13ab47"
+    },
+    "tonghua-l": {
+      "__uuid__": "5684d103-b800-46a4-ac1a-f4872a4628da"
+    },
+    "wt-c": {
+      "__uuid__": "ab28838d-0501-4234-a960-161de574d19f"
+    },
+    "wt-g": {
+      "__uuid__": "42d5a7d5-3c31-4a48-b4af-10caa87bfeb5"
+    },
+    "wt-l": {
+      "__uuid__": "2c2066ae-ba5e-479b-b16d-d546771de088"
+    },
+    "yijian-g": {
+      "__uuid__": "bfd32edb-6108-43e5-ae61-71089cfc8b5e"
+    },
+    "yijian": {
+      "__uuid__": "ff0e68a6-45c4-4c2b-ab9d-fe2fd7ad51e4"
+    }
+  }
+}

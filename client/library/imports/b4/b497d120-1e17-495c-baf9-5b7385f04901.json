@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zongjiesuan1",
+    "texture": "052f4afc-c013-44d0-8176-36a183e15da2",
+    "atlas": "529bc2a2-08ca-47cc-b2b5-3f23b6a418bf",
+    "rect": [
+      963,
+      0,
+      448,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      448,
+      128
+    ]
+  }
+}

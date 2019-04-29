@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buhua-zi",
+    "texture": "be400922-b16f-4e4a-a7fb-b619bdc43b89",
+    "atlas": "",
+    "rect": [
+      8,
+      2,
+      153,
+      79
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      170,
+      85
+    ]
+  }
+}

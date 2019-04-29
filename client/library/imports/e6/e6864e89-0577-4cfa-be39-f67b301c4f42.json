@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_play_scene_icon_table_1",
+    "texture": "2b91c3d0-5bb6-4253-9ea1-a4ff0ffde82e",
+    "atlas": "accfc8e7-8785-4210-a512-0519dca08534",
+    "rect": [
+      815,
+      186,
+      320,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      320,
+      57
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_setting.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "n_btn_checkbox": {
+      "__uuid__": "105c4826-aa5b-4f94-b9e2-fc02ddf93223"
+    },
+    "n_btn_checkbox_grey": {
+      "__uuid__": "2c2954c2-5ac3-4ee9-b316-47b43c4965a5"
+    },
+    "n_btn_checkbox_mark": {
+      "__uuid__": "0cf17e6d-6502-437b-b7d9-5a93904b88b7"
+    },
+    "n_icon_right": {
+      "__uuid__": "d1fa0c26-fa11-420d-9c26-00c81e436e93"
+    },
+    "n_setdice": {
+      "__uuid__": "b76a273d-c037-40d3-9eee-aab7973ab2ed"
+    },
+    "n_setting_bar_bg_new": {
+      "__uuid__": "3cfb9c11-8621-429d-b28a-48f5b3377dca"
+    },
+    "n_setting_bar_new": {
+      "__uuid__": "61bd83fe-6813-41cd-b822-ffaf29687221"
+    },
+    "n_setting_max_music_sign_new": {
+      "__uuid__": "eaefbb5d-3f96-45ee-a5d6-e671cc0d7ff4"
+    },
+    "n_setting_max_sound_sign_new": {
+      "__uuid__": "57989044-c2f4-4599-a56a-7e9b54b3ceb7"
+    },
+    "n_setting_min_music_sign_new": {
+      "__uuid__": "3467114b-829e-4f4d-a979-7bba206a97d8"
+    },
+    "n_setting_min_sound_sign_new": {
+      "__uuid__": "8108b1e2-b4fd-45e9-91a1-e511960df1b5"
+    },
+    "n_tablecloth_blue": {
+      "__uuid__": "26aa6681-21ed-497c-97fe-60ab6e2e73a9"
+    },
+    "n_tablecloth_green": {
+      "__uuid__": "8091be2d-ac26-440e-b846-7484eeecf010"
+    },
+    "new_setting_bar": {
+      "__uuid__": "5f17034a-b844-4967-a1ce-c75d7a18c6da"
+    },
+    "new_setting_bar_bg": {
+      "__uuid__": "d7c5e44a-a14e-4533-8270-6436f2eb7360"
+    },
+    "new_setting_classic_green": {
+      "__uuid__": "bed83a0d-c4de-4162-9952-aaf64d011920"
+    },
+    "new_setting_fengge_word1": {
+      "__uuid__": "a07e05d5-bb83-4e9a-a00f-015b430507ee"
+    },
+    "new_setting_fengge_word2": {
+      "__uuid__": "09341711-ec17-44b3-b544-f1a2380048f9"
+    },
+    "new_setting_gongneng_word1": {
+      "__uuid__": "4c7fe47a-0f5f-4c8e-8d75-8abd830934c0"
+    },
+    "new_setting_gongneng_word2": {
+      "__uuid__": "5b9e4148-7f73-4953-9bb2-123727b49ca6"
+    },
+    "new_setting_good_blue": {
+      "__uuid__": "bedcf98d-da05-45e0-867f-50bfd3f10e72"
+    },
+    "setting_icon_exit": {
+      "__uuid__": "4606582f-94c3-4a6c-927b-de867f8bdd9e"
+    },
+    "setting_tablecloth_blue": {
+      "__uuid__": "f9d00038-f0e1-4b49-8cfb-f9a693517ee9"
+    },
+    "setting_tablecloth_green": {
+      "__uuid__": "bd20a1f1-bc76-4c63-af9c-77c61775a3a6"
+    },
+    "setting_title_new": {
+      "__uuid__": "2aacbad6-2db6-45a8-9f2d-3317d738982f"
+    }
+  }
+}

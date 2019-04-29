@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "n_icon_shop_reduce",
+    "texture": "b289f97d-e5e6-4e42-b43c-eaa756731c8e",
+    "atlas": "75da6be1-c124-428e-b4f9-10d249c03f47",
+    "rect": [
+      339,
+      477,
+      55,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      18
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_joinroom.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "joinroom_btn_blue": {
+      "__uuid__": "ffeee4fc-9f3a-4b2e-9940-daebee85d4c5"
+    },
+    "joinroom_btn_yellow": {
+      "__uuid__": "28f2bf9c-cc1c-4bad-a9c5-4a4a0b77619d"
+    },
+    "joinroom_icon_back": {
+      "__uuid__": "fd069a55-4664-40c8-b408-34fff624246e"
+    },
+    "joinroom_icon_clear": {
+      "__uuid__": "d11cf1fa-8b35-4b84-a6df-688c13e81434"
+    },
+    "joinroom_icon_join": {
+      "__uuid__": "1b7460a8-ad22-41b3-9dc3-e8caf6175e0b"
+    }
+  }
+}

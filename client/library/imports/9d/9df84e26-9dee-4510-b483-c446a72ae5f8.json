@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_title_create_room",
+    "texture": "c7b09ba1-366f-4dd7-b281-39de7e3c8804",
+    "atlas": "a3975d94-c54c-4346-a52e-54da6b1988e4",
+    "rect": [
+      501,
+      81,
+      208,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      208,
+      57
+    ],
+    "rotated": 1
+  }
+}

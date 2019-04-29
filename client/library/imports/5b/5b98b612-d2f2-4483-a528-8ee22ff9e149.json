@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "paibg.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "bigbg": {
+      "__uuid__": "2b8c77fa-8921-4879-a6af-2174c8ffcb50"
+    },
+    "paibei": {
+      "__uuid__": "67218d33-4a79-4c95-b721-33a9233d401c"
+    },
+    "paibg": {
+      "__uuid__": "32f3ac2e-b3a8-4a23-9c47-10e6fc3096ea"
+    }
+  }
+}

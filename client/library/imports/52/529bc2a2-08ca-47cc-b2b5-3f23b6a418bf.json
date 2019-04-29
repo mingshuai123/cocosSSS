@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bg.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "guanjun": {
+      "__uuid__": "5e79f568-674c-4621-93b8-5a763f4f595f"
+    },
+    "huosheng": {
+      "__uuid__": "bf52c567-3fd6-4c46-966f-1206a34f8f42"
+    },
+    "kapian": {
+      "__uuid__": "0b85e616-9b76-4a73-bae2-565a4b1c93d3"
+    },
+    "shibai": {
+      "__uuid__": "8f721607-98d9-4a68-bb53-deda2dbd55d5"
+    },
+    "zongjiesuan": {
+      "__uuid__": "417ced42-234c-40f6-8d94-9454151d5493"
+    },
+    "zongjiesuan1": {
+      "__uuid__": "b497d120-1e17-495c-baf9-5b7385f04901"
+    },
+    "总结算页面": {
+      "__uuid__": "63673689-2010-4116-94ce-bb661ce7d57b"
+    },
+    "摆牌页面": {
+      "__uuid__": "7cb7d95b-4dca-4cce-88ad-3e0d7962a504"
+    }
+  }
+}

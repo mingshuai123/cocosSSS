@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_public_border",
+    "texture": "b03289b3-c55c-468e-998a-452034e6543b",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1546,
+      247
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1552,
+      253
+    ]
+  }
+}

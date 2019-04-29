@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tao2",
+    "texture": "82d59400-f4d2-4fb9-868e-7887801b9247",
+    "atlas": "fbe195e6-e2b6-4de6-b69d-2934d3e2dac2",
+    "rect": [
+      924,
+      468,
+      154,
+      234
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      154,
+      234
+    ]
+  }
+}

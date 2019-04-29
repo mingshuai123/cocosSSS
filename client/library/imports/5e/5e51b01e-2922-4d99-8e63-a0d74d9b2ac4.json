@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_lan_thin",
+    "texture": "b03289b3-c55c-468e-998a-452034e6543b",
+    "atlas": "b4f5d24a-ee06-44d4-a9ad-effff9ad451f",
+    "rect": [
+      2,
+      87,
+      581,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      581,
+      48
+    ]
+  }
+}

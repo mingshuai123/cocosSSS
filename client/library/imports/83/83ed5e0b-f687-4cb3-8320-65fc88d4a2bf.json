@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_playerinfo.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "pi_bindphone_title": {
+      "__uuid__": "39bb97e0-60ae-44c0-b83d-7c900e76c04a"
+    },
+    "pi_btn_bindingphone": {
+      "__uuid__": "db2b940b-fbec-4dec-a965-4d2f57397f5f"
+    },
+    "pi_btn_bindphone": {
+      "__uuid__": "1cd9fd85-28d8-4e28-afc6-340df66bfbe0"
+    },
+    "pi_btn_blue": {
+      "__uuid__": "e09f4767-5fef-4e97-bbe4-83fffe54fcd7"
+    },
+    "pi_btn_getcode": {
+      "__uuid__": "0e825fda-7bc1-4b28-a435-157f95fefef0"
+    },
+    "pi_btn_yellow": {
+      "__uuid__": "72d27cf6-7f44-412b-ac4b-b760fd438596"
+    },
+    "pi_chang_word": {
+      "__uuid__": "813a07c9-adb8-4c31-ba40-c46ccb0c19ef"
+    },
+    "pi_change_one": {
+      "__uuid__": "8213a25b-6230-4669-9543-985e0b4b024b"
+    },
+    "pi_change_title": {
+      "__uuid__": "3fdf696f-162c-492e-ace6-15118d661fbf"
+    },
+    "pi_char_icon": {
+      "__uuid__": "74d8be9c-9f51-46ae-88be-910342cca174"
+    },
+    "pi_frame_info": {
+      "__uuid__": "1a02c8c2-373c-45d1-a316-529e875f8d43"
+    },
+    "pi_get_code": {
+      "__uuid__": "6d1ede82-1590-4778-9a38-3e6e0d690cb0"
+    },
+    "pi_head_back": {
+      "__uuid__": "423a0daf-24f3-4ca5-8ee1-2d5ff99baa96"
+    },
+    "pi_head_frame": {
+      "__uuid__": "7375accb-c7f3-415a-8d80-92ffc853e946"
+    },
+    "pi_icon_key": {
+      "__uuid__": "fdc15918-d3b8-4360-844d-39b763420ca2"
+    },
+    "pi_icon_select": {
+      "__uuid__": "db302403-9862-4682-b8dc-da33c725dd0a"
+    },
+    "pi_icon_title": {
+      "__uuid__": "20eb04a8-a2e1-483a-a79b-f58903bcca8a"
+    },
+    "pi_icon_use": {
+      "__uuid__": "d0e6e081-5c6d-4f21-acdb-5de8d4a2eac2"
+    },
+    "pi_lock_icon": {
+      "__uuid__": "ffcd9031-d093-48cd-83c2-6abfa02ff3a8"
+    },
+    "pi_phone_icon": {
+      "__uuid__": "0efd5a3c-888d-4bff-ab1b-5f945e582084"
+    },
+    "pi_play_emoji_bg": {
+      "__uuid__": "5921792b-49fd-4591-9710-301a2234966d"
+    },
+    "pi_play_emoji_frame": {
+      "__uuid__": "dd4895a4-0908-422f-8e3b-2f970b6f0360"
+    },
+    "pi_play_head_frame": {
+      "__uuid__": "99f5127e-3170-4a63-82fe-a9a7c79177cf"
+    },
+    "pi_small_btn": {
+      "__uuid__": "4fda5f55-66de-4bce-9cdf-e7464ac5f7dd"
+    },
+    "pi_sure_change": {
+      "__uuid__": "086bed95-701e-4bfa-a8c5-b86193f62b04"
+    }
+  }
+}

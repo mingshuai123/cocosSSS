@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_role",
+    "texture": "3bbc7e68-5611-4bd6-8ead-7b982c9144b5",
+    "atlas": "d3a02c0c-49f1-4a98-85df-16ad8484fad9",
+    "rect": [
+      405,
+      2,
+      176,
+      207
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      176,
+      207
+    ],
+    "rotated": 1
+  }
+}

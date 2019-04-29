@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hb_bg",
+    "texture": "317b0ca7-9c55-4cbd-90dd-c0b1209500c7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      255,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      255,
+      45
+    ]
+  }
+}

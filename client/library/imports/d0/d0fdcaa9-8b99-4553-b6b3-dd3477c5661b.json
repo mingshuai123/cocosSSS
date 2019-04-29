@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jfq",
+    "texture": "e0f299e4-8b7b-423f-b940-1910632a2acc",
+    "atlas": "0fef514d-7bcf-45c4-b546-d1c90ce1eafd",
+    "rect": [
+      0,
+      504,
+      350,
+      460
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      350,
+      460
+    ]
+  }
+}

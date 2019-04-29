@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "dankeng.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "dankeng1": {
+      "__uuid__": "c6d8774d-9aa7-49b3-97de-b25968759eca"
+    },
+    "dankeng2": {
+      "__uuid__": "7630f1eb-1b2f-4878-9bad-ff41a398c9f5"
+    },
+    "dankeng3": {
+      "__uuid__": "9db0177d-cbb6-461e-9e15-747cb2904960"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_shop_duihuan",
+    "texture": "b289f97d-e5e6-4e42-b43c-eaa756731c8e",
+    "atlas": "75da6be1-c124-428e-b4f9-10d249c03f47",
+    "rect": [
+      2,
+      690,
+      183,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      50
+    ]
+  }
+}

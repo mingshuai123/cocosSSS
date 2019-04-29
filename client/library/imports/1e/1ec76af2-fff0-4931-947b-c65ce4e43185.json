@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "buhua",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.83,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "huaban1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -145,
+                42
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -93,
+                19
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -6,
+                -2
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                26,
+                -6
+              ]
+            }
+          ]
+        }
+      },
+      "huaban2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -117,
+                60
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -72,
+                47
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -22,
+                22
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                14,
+                8
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                47,
+                -6
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

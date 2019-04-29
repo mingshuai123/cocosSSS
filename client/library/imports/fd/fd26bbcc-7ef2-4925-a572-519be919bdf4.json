@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_gold_medal",
+    "texture": "b28096c3-406a-47af-9cf2-aa75f3bfdde4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      252,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      252,
+      256
+    ]
+  }
+}

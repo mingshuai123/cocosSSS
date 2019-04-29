@@ -1,0 +1,245 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "changshamjbtn.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "anjingang": {
+      "__uuid__": "ee3faf89-abdd-4e30-803f-6b471c4f0448"
+    },
+    "baihu": {
+      "__uuid__": "8ea637bc-68c0-4492-9ebf-e64bd25ff4e3"
+    },
+    "bazhanghua": {
+      "__uuid__": "117c079c-66c9-4091-a90e-f32565d65f0d"
+    },
+    "btn_bu_cs": {
+      "__uuid__": "2a957a61-ef3f-4fcf-b18a-f528ad4647b2"
+    },
+    "btn_bu_cs_dis": {
+      "__uuid__": "c5bf7420-ed1b-4759-8af6-12149d68bcca"
+    },
+    "btn_buzhang_cs": {
+      "__uuid__": "bed170f7-adb6-49ee-9ac8-5ff12252140a"
+    },
+    "btn_eat_cs": {
+      "__uuid__": "9a16a79c-fe49-4df8-a8ab-15f7ce9f9679"
+    },
+    "btn_eat_cs_dis": {
+      "__uuid__": "e1b638d5-ee67-441a-b419-3b6e64543957"
+    },
+    "btn_gang_cs": {
+      "__uuid__": "97a20273-390d-479a-b703-603ef2537522"
+    },
+    "btn_gang_cs_dis": {
+      "__uuid__": "c1c9c21c-4470-4a0e-a062-daa4404968c8"
+    },
+    "btn_light_you": {
+      "__uuid__": "560a2fd1-bd22-4abb-9cc7-46ec7d614836"
+    },
+    "btn_pass_cs": {
+      "__uuid__": "77640c78-308a-4d58-b54d-e659b75d5138"
+    },
+    "btn_peng_cs": {
+      "__uuid__": "5d3082c8-cf97-475f-b590-920577f11c3d"
+    },
+    "btn_peng_cs_dis": {
+      "__uuid__": "a3795c54-1738-484d-a247-f24dfb0e14e1"
+    },
+    "btn_ting": {
+      "__uuid__": "4cc901a1-4109-4a8f-a758-da12cfc74127"
+    },
+    "btn_ting_dis": {
+      "__uuid__": "fc26de5e-643c-4b9b-a063-646bac52c2f5"
+    },
+    "btn_win_cs": {
+      "__uuid__": "1d8d75f9-1267-4f1b-9068-26145207186d"
+    },
+    "btn_win_cs_dis": {
+      "__uuid__": "56611eb4-f8d5-4a1d-8ade-856af487b7bc"
+    },
+    "dandiao": {
+      "__uuid__": "5743f801-24ac-40a6-83e1-c53e177731c0"
+    },
+    "dandiaojinque": {
+      "__uuid__": "37090be6-d956-4517-9c07-248edd16193f"
+    },
+    "dasanyuan": {
+      "__uuid__": "38f0e839-1b9c-4b16-9af2-55c70492cca6"
+    },
+    "dasixi": {
+      "__uuid__": "b20422d2-3868-454c-997c-1fcd0fbeddcc"
+    },
+    "decision_sign_cs_1": {
+      "__uuid__": "18e93dd3-1715-4326-b4ec-46b4ea22a6d7"
+    },
+    "decision_sign_cs_2": {
+      "__uuid__": "27730d49-b101-4488-81c9-b788b45d1ed8"
+    },
+    "decision_sign_cs_3": {
+      "__uuid__": "de9fb594-e348-4a36-86ba-38e286d0e71e"
+    },
+    "decision_sign_cs_4": {
+      "__uuid__": "7fe51184-2d7b-4e92-a07a-5104c472efd5"
+    },
+    "decision_sign_cs_5": {
+      "__uuid__": "01127d1f-f04f-478e-baba-5049165bc5db"
+    },
+    "decision_sign_cs_6": {
+      "__uuid__": "d851bf6a-c483-43d5-810a-9865ccf260a3"
+    },
+    "decision_sign_cs_7": {
+      "__uuid__": "9c875b70-bbf1-4669-99e9-9fcb87dbc3ba"
+    },
+    "dihu": {
+      "__uuid__": "adfffd3a-77f6-4f90-941e-500176198fa1"
+    },
+    "dihujinlong": {
+      "__uuid__": "6f919ff6-2cfa-40a7-99bf-8d0212b3587e"
+    },
+    "dihujinque": {
+      "__uuid__": "e45858dc-7f05-450f-b677-734a81a4d319"
+    },
+    "dihuqingyise": {
+      "__uuid__": "ef15fc10-e29e-4880-8eaa-1db4a2c2eeb6"
+    },
+    "doubleyou": {
+      "__uuid__": "f8a0858d-8bfd-4168-8501-9570918e9483"
+    },
+    "duiduihu": {
+      "__uuid__": "ecb2a947-4410-40e7-8259-24f6fc6c140a"
+    },
+    "eightjin": {
+      "__uuid__": "63e1097c-1f56-4fa0-88f9-88759996544d"
+    },
+    "eightyou": {
+      "__uuid__": "7ffc66dd-2d66-46e0-9e47-7a63832299e4"
+    },
+    "fivejin": {
+      "__uuid__": "1a54f55f-aec9-4f05-b27f-d1bef81b8658"
+    },
+    "fiveyou": {
+      "__uuid__": "a4b48a66-7535-407d-a643-edd972297b66"
+    },
+    "fourjin": {
+      "__uuid__": "64a134c6-7754-4c21-bd53-15e53759803a"
+    },
+    "fouryou": {
+      "__uuid__": "e23ab9e7-f085-4123-82d2-a2b8b70c6537"
+    },
+    "haoqidui": {
+      "__uuid__": "7d7315e6-abd8-4b0f-8e12-cd5ed5ac56da"
+    },
+    "hu": {
+      "__uuid__": "25ddafc9-80d3-430b-9550-e63fc805ed63"
+    },
+    "hunyise": {
+      "__uuid__": "a8959574-c152-42fe-b213-171c9c9bc1f6"
+    },
+    "jingang": {
+      "__uuid__": "f0ea0b5a-4e51-4961-bb4a-eeaec2a38f4b"
+    },
+    "jinkan": {
+      "__uuid__": "de03b9b5-9ab6-41cf-b870-3af94a080ff3"
+    },
+    "jinlong": {
+      "__uuid__": "a869f397-6a6f-4fc5-b642-d03f1b8c4563"
+    },
+    "jinque": {
+      "__uuid__": "9f84c340-d681-4828-8a0f-92a12d39d6dd"
+    },
+    "mingjingang": {
+      "__uuid__": "7de80254-669f-4865-9a66-8c9483808523"
+    },
+    "modi": {
+      "__uuid__": "ff8ec278-c0ff-4a47-bae0-59b2107e8385"
+    },
+    "pinghu": {
+      "__uuid__": "1e5087f5-4360-40df-ab1e-36e7a84d3eb0"
+    },
+    "qiangganghu": {
+      "__uuid__": "12b4a5c8-e73d-4205-9296-28cad4eac214"
+    },
+    "qiangjin": {
+      "__uuid__": "39e02c9f-8408-441b-96a7-ac051fe949ef"
+    },
+    "qidui": {
+      "__uuid__": "1c02001f-e53d-45e9-a1dd-e99ea5b15bc4"
+    },
+    "qingyise": {
+      "__uuid__": "abb94d1f-a1be-450c-a5e0-237dbe69fd5f"
+    },
+    "qingyisedandiao": {
+      "__uuid__": "87e12b2c-74ec-4bf7-b82b-c0965cd6dd2e"
+    },
+    "qingyisejinlong": {
+      "__uuid__": "761117b7-5d95-435a-b3a7-efef47aa3c2f"
+    },
+    "qingyisejinque": {
+      "__uuid__": "1721e209-bebf-4485-bf4f-cf23dc187b3f"
+    },
+    "sanjinqingyise": {
+      "__uuid__": "61a3b39a-0e6c-406c-8afa-2401f38dbdf3"
+    },
+    "sanjinyou": {
+      "__uuid__": "0aeb7b86-2091-4dd7-bc92-8d4452b4de35"
+    },
+    "sevenjin": {
+      "__uuid__": "718b5979-2fbb-41a9-bbb2-61e8d20a47e3"
+    },
+    "shisanyao": {
+      "__uuid__": "08984478-d56f-4199-8234-fe74a55b67d3"
+    },
+    "sijinqingyise": {
+      "__uuid__": "4d0ba28e-583f-422a-a811-3b6af8c6ae6a"
+    },
+    "singleyou": {
+      "__uuid__": "44fb389a-f46e-4cfd-8ea9-f8189c166d1e"
+    },
+    "sixjin": {
+      "__uuid__": "096eafb7-236d-48c0-bbb8-57fffb977637"
+    },
+    "sixteenyou": {
+      "__uuid__": "c4542753-feaf-40f7-a626-b46647175774"
+    },
+    "sixyou": {
+      "__uuid__": "04f6fa78-627a-43cd-90fb-de9b5642d3cf"
+    },
+    "thirtytwoyou": {
+      "__uuid__": "f54722f3-1beb-4047-94c8-436e47fd6406"
+    },
+    "threejinhu": {
+      "__uuid__": "85cd248d-6dba-4d00-b757-cb1967d2cb40"
+    },
+    "threeyou": {
+      "__uuid__": "7d385621-f664-49ed-88bf-5436aba9f6c2"
+    },
+    "tianhu": {
+      "__uuid__": "7fd095f3-4e93-4573-b70b-e259510af0a8"
+    },
+    "tianhujinlong": {
+      "__uuid__": "7f2ef7ba-e20c-4729-8a2d-3982e0e2a2df"
+    },
+    "tianhujinque": {
+      "__uuid__": "0cbbb0e4-10d2-444f-bb11-d0b1f413961f"
+    },
+    "tianhuqingyise": {
+      "__uuid__": "e5141058-6cc7-4583-ba46-5ffbcf5a885f"
+    },
+    "wujinhu": {
+      "__uuid__": "b30e9661-9bf5-436f-a1f4-7af552a83a26"
+    },
+    "wushuihu": {
+      "__uuid__": "97f30c0d-35bd-4de8-8cf5-53164d7c838a"
+    },
+    "xianjin": {
+      "__uuid__": "dc36648c-c626-46a5-ad62-a3a7dc5c6282"
+    },
+    "zhahua": {
+      "__uuid__": "2e4eb912-d0c6-4c61-ac6e-e9400e65f197"
+    },
+    "zimohu": {
+      "__uuid__": "55377591-e136-4b4f-995d-a597a6fa5e66"
+    }
+  }
+}

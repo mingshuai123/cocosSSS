@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kapian",
+    "texture": "0042d20d-6276-4f4f-8f02-d2d4895aa919",
+    "atlas": "ac6f175d-9292-44e6-923e-2e37d52424b8",
+    "rect": [
+      247,
+      0,
+      260,
+      190
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      260,
+      190
+    ]
+  }
+}

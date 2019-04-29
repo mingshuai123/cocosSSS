@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "play_scene_change_jiantou",
+    "texture": "ba9d1d89-0f3b-4e52-91ab-874f1dffcfe4",
+    "atlas": "c32da84f-d3f2-4327-8075-582cc04e1dbb",
+    "rect": [
+      293,
+      1822,
+      64,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      112
+    ]
+  }
+}

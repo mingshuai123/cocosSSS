@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mahjong_tiles_big1",
+    "texture": "0def5247-85fa-4c45-9d7a-15d38b8c2547",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      2029,
+      454
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      2036,
+      460
+    ]
+  }
+}

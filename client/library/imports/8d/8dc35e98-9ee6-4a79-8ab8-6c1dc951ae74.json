@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kickout",
+    "texture": "5f3815d1-9da5-4c4a-b083-e8cc4f7a6e02",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      60
+    ]
+  }
+}

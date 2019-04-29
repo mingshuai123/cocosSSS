@@ -1,0 +1,173 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "pai.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "dawang": {
+      "__uuid__": "437cdc02-9327-4406-b293-c246baf74bc0"
+    },
+    "fangkuai10": {
+      "__uuid__": "1e555bcc-6508-4aad-8284-12c9ccaf4b35"
+    },
+    "fangkuai11": {
+      "__uuid__": "9d407990-4f33-419c-8cad-b98e97d338ec"
+    },
+    "fangkuai12": {
+      "__uuid__": "2575d15f-2cee-4686-b5e1-88a21a12e5e2"
+    },
+    "fangkuai13": {
+      "__uuid__": "7076d917-daa5-46b0-9216-5a7cb961f808"
+    },
+    "fangkuai14": {
+      "__uuid__": "b7e82bf8-1eee-4b6e-a140-815ea0d6e669"
+    },
+    "fangkuai2": {
+      "__uuid__": "d28fa28e-a3f7-433f-b13b-377a15f4323d"
+    },
+    "fangkuai3": {
+      "__uuid__": "c86ca283-b57d-4da7-9901-819c2e4723a9"
+    },
+    "fangkuai4": {
+      "__uuid__": "2957ddeb-72e0-4cc4-896d-601e55c61802"
+    },
+    "fangkuai5": {
+      "__uuid__": "e97d30dc-3233-4405-9b19-85fa2eb0b638"
+    },
+    "fangkuai6": {
+      "__uuid__": "d6141185-97c2-4cba-aac4-dd2738d404ee"
+    },
+    "fangkuai7": {
+      "__uuid__": "45826d66-b212-4e9c-822b-42f7ced0e938"
+    },
+    "fangkuai8": {
+      "__uuid__": "09f901bc-4bfe-4eab-9139-bbef127fc2ea"
+    },
+    "fangkuai9": {
+      "__uuid__": "145d9cef-0764-4612-8aa8-45f6038334aa"
+    },
+    "hua10": {
+      "__uuid__": "5f5cd9aa-4274-4c93-9232-ee5f1d8fb363"
+    },
+    "hua11": {
+      "__uuid__": "ecbb4d23-af5b-4629-a967-179cdca415ff"
+    },
+    "hua12": {
+      "__uuid__": "c9a89f53-cb1d-4589-90ed-200f6abb2164"
+    },
+    "hua13": {
+      "__uuid__": "673d13e8-a877-4677-81ad-c872585a1deb"
+    },
+    "hua14": {
+      "__uuid__": "06fb1d9f-13d6-457e-a838-07cc117be702"
+    },
+    "hua2": {
+      "__uuid__": "c8ce462e-8d5e-43a1-9b8b-2f429aa4aaa1"
+    },
+    "hua3": {
+      "__uuid__": "b5ab7a62-771a-41d6-8886-9b3764751054"
+    },
+    "hua4": {
+      "__uuid__": "5a67302d-1758-4261-9df6-d9d8b10ce9f0"
+    },
+    "hua5": {
+      "__uuid__": "dfa1de92-b658-42a4-b84e-9d0281d975f6"
+    },
+    "hua6": {
+      "__uuid__": "3c1ff728-6c51-41b0-b186-9c0d34513a94"
+    },
+    "hua7": {
+      "__uuid__": "2fd1bf79-87e5-4df6-a1bf-e623b02de8df"
+    },
+    "hua8": {
+      "__uuid__": "aefbd4b3-2952-4ee1-a87e-238271e089d1"
+    },
+    "hua9": {
+      "__uuid__": "24155455-0971-44bd-901b-f266db234436"
+    },
+    "paibei": {
+      "__uuid__": "b155c287-67d1-432b-a14f-33c88f8827a8"
+    },
+    "tao10": {
+      "__uuid__": "51253e36-fabc-4df1-a639-9344726b54cc"
+    },
+    "tao11": {
+      "__uuid__": "74a845cd-02dc-4a0c-9df2-596ebc256987"
+    },
+    "tao12": {
+      "__uuid__": "56427f09-886f-4be9-8629-f6a4d74bb6c9"
+    },
+    "tao13": {
+      "__uuid__": "6dd5d31f-d833-4416-9066-2959f04d3ac6"
+    },
+    "tao14": {
+      "__uuid__": "bf1ef987-3f78-49dd-a3a8-5d45a229b318"
+    },
+    "tao2": {
+      "__uuid__": "7cd02250-cbe5-4149-b9e3-bf2afd427a58"
+    },
+    "tao3": {
+      "__uuid__": "3bbb3c6d-1c02-4bec-bcba-778467c748f5"
+    },
+    "tao4": {
+      "__uuid__": "e1a909cb-5aa6-4be0-898c-c097d04c3339"
+    },
+    "tao5": {
+      "__uuid__": "f8c3d224-3516-4d8f-8919-daf4a9232ab4"
+    },
+    "tao6": {
+      "__uuid__": "003bb57c-592c-4565-8247-c986620a8fd9"
+    },
+    "tao7": {
+      "__uuid__": "a8747a35-14a7-4cbf-a330-3a284637c4dd"
+    },
+    "tao8": {
+      "__uuid__": "a96bd1cb-bacd-45e9-9eac-699972da4375"
+    },
+    "tao9": {
+      "__uuid__": "9159736d-7c3f-4c4c-b774-b189d20b3d83"
+    },
+    "xiaowang": {
+      "__uuid__": "19dfbc23-6bec-43f4-ae74-3340af57428a"
+    },
+    "xin10": {
+      "__uuid__": "c24496a6-204c-47a5-8b32-7f38b14362f6"
+    },
+    "xin11": {
+      "__uuid__": "0f1d3aa4-1277-4a6d-8e13-333a4fdd1840"
+    },
+    "xin12": {
+      "__uuid__": "90c78c7a-8091-455d-84d8-89f52369154a"
+    },
+    "xin13": {
+      "__uuid__": "671ad57d-04a7-4197-81a1-197828841e82"
+    },
+    "xin14": {
+      "__uuid__": "24542de4-3fca-4922-8046-44d0dee5ed6f"
+    },
+    "xin2": {
+      "__uuid__": "c4b13e5d-582e-4250-95e7-fda19c53e45d"
+    },
+    "xin3": {
+      "__uuid__": "d29756ee-c992-4a15-9c24-55b2348d2844"
+    },
+    "xin4": {
+      "__uuid__": "34ae3a3a-92e7-4262-8895-0cd878fe9f2e"
+    },
+    "xin5": {
+      "__uuid__": "01f41e27-8dc4-4344-9a47-0b30fa56ddab"
+    },
+    "xin6": {
+      "__uuid__": "4b22608b-6d67-4101-b35a-90ac39733f47"
+    },
+    "xin7": {
+      "__uuid__": "6e92c5f6-68ad-46fe-9725-c6dd47e71de3"
+    },
+    "xin8": {
+      "__uuid__": "b5ea0cf0-782e-4ad1-be84-be07bad15721"
+    },
+    "xin9": {
+      "__uuid__": "6a90b96f-582d-4427-90b6-159e71c0ed4a"
+    }
+  }
+}

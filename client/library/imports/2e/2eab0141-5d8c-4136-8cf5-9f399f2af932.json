@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_play_scene_title_xingzhuang",
+    "texture": "2b91c3d0-5bb6-4253-9ea1-a4ff0ffde82e",
+    "atlas": "accfc8e7-8785-4210-a512-0519dca08534",
+    "rect": [
+      357,
+      203,
+      199,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      199,
+      47
+    ],
+    "capInsets": [
+      68,
+      0,
+      68,
+      0
+    ]
+  }
+}

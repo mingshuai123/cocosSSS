@@ -1,0 +1,140 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_play_scene.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "new_play_scene_backmain": {
+      "__uuid__": "656344a4-deae-4192-930a-f74bd0c79d32"
+    },
+    "new_play_scene_battery": {
+      "__uuid__": "717318bb-2dcb-454d-b9b7-aa5a52c5c46b"
+    },
+    "new_play_scene_battery_bg": {
+      "__uuid__": "8896e0e1-ce39-4b61-9b30-866ce5cf579b"
+    },
+    "new_play_scene_btn_back_main": {
+      "__uuid__": "3993a3f2-2d6f-4867-82d7-7de27ca8ed4e"
+    },
+    "new_play_scene_btn_copy_roomid": {
+      "__uuid__": "8c6331fa-4e4d-4a5f-85f2-300bad1536c9"
+    },
+    "new_play_scene_btn_dismiss": {
+      "__uuid__": "1008aa80-7738-4712-9ee4-cf31c6ca3dfa"
+    },
+    "new_play_scene_btn_dismissroom": {
+      "__uuid__": "f1594703-6b98-4e3c-a22e-2660e45a0b3d"
+    },
+    "new_play_scene_btn_invitefriend": {
+      "__uuid__": "ee2359ab-9255-4fb9-81f0-8bb99cd785d4"
+    },
+    "new_play_scene_btn_play_explain": {
+      "__uuid__": "2f0653dd-4d45-4597-bb45-3bc2d028ef12"
+    },
+    "new_play_scene_btn_refresh": {
+      "__uuid__": "0ae0cf97-113e-4d1f-baae-42cac38aeb5e"
+    },
+    "new_play_scene_btn_setting": {
+      "__uuid__": "864776b9-6a15-40be-9aac-330ffc588f5d"
+    },
+    "new_play_scene_btn_speak": {
+      "__uuid__": "13fb2213-720e-4828-9803-c95141cee44d"
+    },
+    "new_play_scene_checkhua": {
+      "__uuid__": "43b02654-86dc-4595-ac14-b279db1fb049"
+    },
+    "new_play_scene_copy_room": {
+      "__uuid__": "f279e57b-6dc9-4f63-8215-caaa76ae6ada"
+    },
+    "new_play_scene_cpg_jiantou": {
+      "__uuid__": "8362e6ac-77b6-400f-ae98-6e52d32d58c3"
+    },
+    "new_play_scene_emoji": {
+      "__uuid__": "94a2cb33-3311-4ba3-9d8a-b09c093aca05"
+    },
+    "new_play_scene_head1": {
+      "__uuid__": "00b53b7b-3cb0-4d5a-9462-d975d7d607f3"
+    },
+    "new_play_scene_icon_jushu": {
+      "__uuid__": "d8d1bbcb-8bcf-4be9-9757-c2ffcfc965c0"
+    },
+    "new_play_scene_icon_table_1": {
+      "__uuid__": "e6864e89-0577-4cfa-be39-f67b301c4f42"
+    },
+    "new_play_scene_icon_table_2": {
+      "__uuid__": "ac236c8d-2dbb-4b8e-8210-1814f55181dd"
+    },
+    "new_play_scene_icon_tile_remain": {
+      "__uuid__": "f3235c90-72ac-4be3-8a45-16408eeba7c8"
+    },
+    "new_play_scene_icon_ting_any_pai": {
+      "__uuid__": "1e57f5ea-9431-4952-9438-6a7de7f70512"
+    },
+    "new_play_scene_icon_ting_back": {
+      "__uuid__": "152357fa-639b-4220-8c36-6548c9a00d72"
+    },
+    "new_play_scene_icon_ting_hu": {
+      "__uuid__": "229f0ae1-1dda-4815-8e36-9ff30c1dbda7"
+    },
+    "new_play_scene_icon_ting_triangle": {
+      "__uuid__": "fe506706-07fc-4725-81da-01f5cec6454c"
+    },
+    "new_play_scene_icon_ting_type1": {
+      "__uuid__": "989aba63-4d8f-4e49-a84c-dc54959062a4"
+    },
+    "new_play_scene_icon_ting_type2": {
+      "__uuid__": "4734afba-a698-4675-8bc6-df2f28bbce7f"
+    },
+    "new_play_scene_invite": {
+      "__uuid__": "374bde73-d726-4661-ab0d-c75c89c56e96"
+    },
+    "new_play_scene_invite_online": {
+      "__uuid__": "08561cc6-397e-4ce1-98c6-d0627051f94f"
+    },
+    "new_play_scene_off_line_sign": {
+      "__uuid__": "dfa28849-d644-4f67-8986-c3e671ed1694"
+    },
+    "new_play_scene_play_scene_canceltuoGuan": {
+      "__uuid__": "e3740b94-572e-4ea7-abb8-333663deb399"
+    },
+    "new_play_scene_play_scene_chosed": {
+      "__uuid__": "22fb80ca-a7ff-436f-aebd-49611a46435a"
+    },
+    "new_play_scene_play_scene_chosing": {
+      "__uuid__": "77eaa0dc-65e2-4d42-aacc-de2fbe9100e2"
+    },
+    "new_play_scene_play_scene_flower": {
+      "__uuid__": "f761a83e-cce4-4342-905b-923fd3cdfdb1"
+    },
+    "new_play_scene_play_scene_gold": {
+      "__uuid__": "7a90b5cd-fd50-4e7e-a092-e8b932525147"
+    },
+    "new_play_scene_ready_pose": {
+      "__uuid__": "424468f5-e826-41cd-b675-ef2634f8d5ec"
+    },
+    "new_play_scene_ready_word": {
+      "__uuid__": "a84b3edc-10b1-4a06-8016-2c569481b51c"
+    },
+    "new_play_scene_score_frame": {
+      "__uuid__": "a862bcc8-e4ac-4b87-8ea8-d0e813159fa3"
+    },
+    "new_play_scene_stop_auto": {
+      "__uuid__": "f0271ccb-484c-44ff-a7bd-7dbe086f099f"
+    },
+    "new_play_scene_title_xingzhuang": {
+      "__uuid__": "2eab0141-5d8c-4136-8cf5-9f399f2af932"
+    },
+    "new_play_scene_turn_pos_bg_none": {
+      "__uuid__": "601820ca-04a1-4a3a-822b-17442d9572af"
+    },
+    "new_play_scene_turn_pos_none": {
+      "__uuid__": "b36444d5-5df9-43f6-b07b-a2e7bde09171"
+    },
+    "new_play_scene_yuanxingjuxing": {
+      "__uuid__": "cc9d601e-a998-4037-bb60-5287dd36c4ff"
+    },
+    "new_play_scene_zhuang": {
+      "__uuid__": "e045204f-a30d-490c-a6b6-d5c41d2e37bf"
+    }
+  }
+}

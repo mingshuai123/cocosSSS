@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinbiz_06",
+    "texture": "6bc6ec13-44f1-49a1-b431-89ddf4a9fd9f",
+    "atlas": "",
+    "rect": [
+      20,
+      31,
+      256,
+      213
+    ],
+    "offset": [
+      -2,
+      12.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ]
+  }
+}

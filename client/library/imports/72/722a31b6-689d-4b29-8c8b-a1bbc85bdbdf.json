@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yuanbao",
+    "texture": "442b53b8-13ac-43fc-9fe8-83e0f0b60c2f",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      552,
+      116
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      555,
+      119
+    ]
+  }
+}

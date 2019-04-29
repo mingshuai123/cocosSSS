@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yuanbaoz_02",
+    "texture": "3d2f96b5-2a09-4bea-91fe-cc01d5dad436",
+    "atlas": "",
+    "rect": [
+      74,
+      85,
+      149,
+      137
+    ],
+    "offset": [
+      -1.5,
+      -3.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_report",
+    "texture": "49f7d2ff-cdc2-41b1-8f1e-15356bfa76b2",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      797,
+      508
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      803,
+      514
+    ]
+  }
+}

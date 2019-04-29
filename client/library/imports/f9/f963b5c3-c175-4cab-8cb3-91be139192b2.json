@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_report.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "best_gunner_sign": {
+      "__uuid__": "0d074ed6-a219-4c1e-a6e3-2103df7ec517"
+    },
+    "big_winner_sign": {
+      "__uuid__": "2979cf9a-1cde-4eea-b352-dca197f30c13"
+    },
+    "border_loser": {
+      "__uuid__": "fc06a733-91b7-4e76-abc0-5b1befa921bf"
+    },
+    "border_winer": {
+      "__uuid__": "f86dadc1-cac9-48c3-be80-2a7f12c1778a"
+    },
+    "btn_huapai": {
+      "__uuid__": "0af27a31-4cde-4bc6-83aa-ebe10dce8850"
+    },
+    "end_owner": {
+      "__uuid__": "ae0acf3f-f3d5-46c5-8b09-9a841adcee53"
+    },
+    "icon_continue": {
+      "__uuid__": "85e0280a-d700-4915-82f7-0420d343a612"
+    },
+    "icon_hu_sign": {
+      "__uuid__": "0afce022-361a-4325-8b34-a08b144390e5"
+    },
+    "icon_report_close": {
+      "__uuid__": "f3b659fb-2d24-47af-8ef6-84875127b223"
+    },
+    "icon_title_flow": {
+      "__uuid__": "10b80660-adae-47e1-b249-bcf60cc0a382"
+    },
+    "icon_title_lose": {
+      "__uuid__": "fae38244-1fc5-44a8-af6b-20983248a1d9"
+    },
+    "icon_title_report": {
+      "__uuid__": "573be5a9-f65a-4259-8994-01e99d15d752"
+    },
+    "icon_title_win": {
+      "__uuid__": "8daee283-49c8-417a-bb17-6b50b1ddfc4d"
+    },
+    "icon_total": {
+      "__uuid__": "d3fe5b65-df87-4bce-afae-e746d0216c5b"
+    },
+    "icon_zhuang_sign": {
+      "__uuid__": "dd80d344-ee66-4505-87b1-88bd9af05acc"
+    },
+    "n_icon_copy_total": {
+      "__uuid__": "776f77d5-587c-453b-9c56-665bca1ae69e"
+    },
+    "n_lostall": {
+      "__uuid__": "64a3a952-907c-413c-899b-a4098cc33d87"
+    }
+  }
+}

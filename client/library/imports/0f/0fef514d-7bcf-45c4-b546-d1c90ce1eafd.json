@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "main_0214.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "cjfj": {
+      "__uuid__": "4abc51b9-7a0d-4444-855f-46b2f15b0428"
+    },
+    "dl": {
+      "__uuid__": "0c5e84be-8ca7-43ee-afb1-b96d20303b2b"
+    },
+    "fhfj": {
+      "__uuid__": "4b873d07-dd29-4f2b-af45-f45dc2813c62"
+    },
+    "fk": {
+      "__uuid__": "d44e5f73-9ab4-43d2-bd13-57e80b55e453"
+    },
+    "fx": {
+      "__uuid__": "b638a809-9172-48e7-bbb3-67dd76fe47df"
+    },
+    "hd": {
+      "__uuid__": "a3854122-8ee9-46ca-a1aa-7871d4829d30"
+    },
+    "jfq": {
+      "__uuid__": "d0fdcaa9-8b99-4553-b6b3-dd3477c5661b"
+    },
+    "jrfj": {
+      "__uuid__": "8e7487f2-6a78-49fa-aee5-eb6532d74f7d"
+    },
+    "pyq": {
+      "__uuid__": "52020487-94f3-49ad-8ea7-aa1b2c5edbb1"
+    },
+    "sz": {
+      "__uuid__": "e914caa4-d48a-44fd-bc72-f8fa50e89019"
+    },
+    "wf": {
+      "__uuid__": "964d3571-98b7-4d41-a3aa-656fa6316fc6"
+    },
+    "zj": {
+      "__uuid__": "1cc4dde6-1e4d-4c16-b9bd-b608b01900a8"
+    },
+    "房卡": {
+      "__uuid__": "0d47d950-9531-4450-97a5-6fd7b189416c"
+    }
+  }
+}

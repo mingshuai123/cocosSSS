@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "history_record.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "hist_rec_backward": {
+      "__uuid__": "cbf5876c-85a3-44cb-9a00-cbb668bd0d93"
+    },
+    "hist_rec_bar": {
+      "__uuid__": "538e49cd-0bb4-4155-958c-e29c1a84d0d9"
+    },
+    "hist_rec_exit": {
+      "__uuid__": "84013e35-0dd4-4229-ac1b-596eb3f642fc"
+    },
+    "hist_rec_forward": {
+      "__uuid__": "496485a7-4b81-45b6-ae9c-60d1d98edf3c"
+    },
+    "hist_rec_frame": {
+      "__uuid__": "99e339c9-18d5-4f1e-a71c-5735ff3d870f"
+    },
+    "hist_rec_pause": {
+      "__uuid__": "f580bdc9-72ae-4a8b-bfab-8868bc2495c4"
+    },
+    "hist_rec_play": {
+      "__uuid__": "bbd76cbb-64e0-47c2-8c91-c0f1282b9c44"
+    },
+    "hist_rec_play_bg": {
+      "__uuid__": "698aeaac-f02c-47a2-ae00-96241ca53b0e"
+    },
+    "hist_rec_replay": {
+      "__uuid__": "1e109be7-5ffc-4026-beb7-65d7380c246d"
+    },
+    "hist_rec_share": {
+      "__uuid__": "6378adb1-c525-499f-9025-dc25659889c5"
+    },
+    "hist_rec_title_1": {
+      "__uuid__": "813fe811-239f-4836-91ba-6f40fd1421c5"
+    },
+    "hist_rec_title_2": {
+      "__uuid__": "bc1eb4fa-a1f3-40bf-8d2f-546863dcc391"
+    },
+    "hist_rec_title_bg_1": {
+      "__uuid__": "adfa5d8c-3c8e-4bf6-9b03-57d901cda0d5"
+    },
+    "hist_rec_title_bg_2": {
+      "__uuid__": "dca5b332-1e89-4b32-bb7e-e50f501500b2"
+    },
+    "hist_rec_view": {
+      "__uuid__": "505b6439-50cf-4390-b635-16132806438e"
+    },
+    "hist_rec_view_other": {
+      "__uuid__": "af1a8e89-8bb1-49de-b141-52bb8e881e19"
+    }
+  }
+}

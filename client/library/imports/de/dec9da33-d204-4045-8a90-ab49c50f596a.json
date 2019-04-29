@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_public_btn",
+    "texture": "2fe593a7-de27-4273-ad0d-6f9783edb169",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      158,
+      1975
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      164,
+      1981
+    ]
+  }
+}

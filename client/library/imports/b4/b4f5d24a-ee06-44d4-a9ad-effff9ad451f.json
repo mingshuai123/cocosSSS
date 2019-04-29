@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_public_border.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "border_1": {
+      "__uuid__": "a3a4dc49-d2c4-40ab-b9dd-94d91ccca44d"
+    },
+    "border_2": {
+      "__uuid__": "1be32317-eca9-4201-8fdd-ce8dac7af6f9"
+    },
+    "rect11": {
+      "__uuid__": "7ad6afa0-7580-4c0f-b199-b9f19a226ddc"
+    },
+    "rect_1": {
+      "__uuid__": "3d69154e-2de3-4c8c-b650-32910d7801ad"
+    },
+    "rect_10": {
+      "__uuid__": "b53fe362-7c61-4f80-bc05-47ea7ec8781b"
+    },
+    "rect_12": {
+      "__uuid__": "ffe94552-1966-4ce4-b64a-792b07c84c2b"
+    },
+    "rect_13": {
+      "__uuid__": "cf2946e0-2c82-4705-a070-43d5f2540c8f"
+    },
+    "rect_14": {
+      "__uuid__": "6d06e24b-5d5d-4880-9713-0034a6a9e0ca"
+    },
+    "rect_15": {
+      "__uuid__": "52887315-abca-44d5-8eda-cc43162765a4"
+    },
+    "rect_17": {
+      "__uuid__": "749ce5ea-4b19-4ac3-b34e-1e3819258a9e"
+    },
+    "rect_18": {
+      "__uuid__": "67641844-7841-44b8-8659-ec87367607e9"
+    },
+    "rect_19": {
+      "__uuid__": "3a14d2d4-d82f-4270-b4fc-897e96734e13"
+    },
+    "rect_2": {
+      "__uuid__": "8800e59f-f16f-4613-be29-4814cb854b7b"
+    },
+    "rect_20": {
+      "__uuid__": "20601ea0-069a-45d7-bc17-29b7a500a0c8"
+    },
+    "rect_3": {
+      "__uuid__": "895d9e21-9b70-4951-9bcf-852ad909b28e"
+    },
+    "rect_4": {
+      "__uuid__": "51307a65-6dab-4be7-91cc-7c757bb6d67a"
+    },
+    "rect_5": {
+      "__uuid__": "95a7813b-e136-42d0-83da-52d0fe66daa0"
+    },
+    "rect_6": {
+      "__uuid__": "e7a280f0-f8c5-425b-bb69-6267ffbeb006"
+    },
+    "rect_7": {
+      "__uuid__": "cb81b275-8554-4476-93a8-9efc8897d155"
+    },
+    "rect_8": {
+      "__uuid__": "32e7fb27-c4d9-4c1a-a652-1fc46c721c3b"
+    },
+    "rect_9": {
+      "__uuid__": "5d13f5d3-4e65-4538-8712-2ff2187e883f"
+    },
+    "title_lan": {
+      "__uuid__": "9d3ec850-225f-4ce4-866a-e917dda4a85a"
+    },
+    "title_lan_short": {
+      "__uuid__": "3c460e71-c02d-494d-a928-19dbd41ca537"
+    },
+    "title_lan_thin": {
+      "__uuid__": "5e51b01e-2922-4d99-8e63-a0d74d9b2ac4"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "jinbi.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "jb_00": {
+      "__uuid__": "30e6361d-d0f3-4fbc-a204-e6941315e3a3"
+    },
+    "jb_01": {
+      "__uuid__": "801aac7c-da06-4616-bb75-0867612f065d"
+    },
+    "jb_02": {
+      "__uuid__": "02b42f8c-bec3-42ce-abee-5638e31a115c"
+    }
+  }
+}

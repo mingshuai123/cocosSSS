@@ -1,0 +1,38 @@
+{
+  "appKey": "7D47159F-F273-69C8-E472-1806CAE94E5E",
+  "appSecret": "7ac0fff87117e69ea4784ba58d07be8f",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeAnySDK": true,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "http://106.75.133.193:8129/hall/WXLogin",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.funingyule.game",
+  "privateKey": "4441B50FAD288A4D0C6FE3D3DA09CA67",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "startScene": "ae0f1368-427d-41ca-bc13-0d2f73827208",
+  "title": "bmmj",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "appid": "",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "6cfba90a-b01f-41",
+  "zipCompressJs": true
+}

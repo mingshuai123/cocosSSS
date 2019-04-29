@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_renzheng",
+    "texture": "7c7e0c37-163e-421a-8bac-5a9509d8e5d6",
+    "atlas": "ee03f972-722d-49a1-9f0e-8e14e1d33bb0",
+    "rect": [
+      489,
+      548,
+      61,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      85
+    ],
+    "rotated": 1
+  }
+}

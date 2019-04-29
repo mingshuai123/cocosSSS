@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buhua-hua3",
+    "texture": "0ca03cb1-124b-43df-a307-ed613f7c911d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      49,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      49,
+      50
+    ]
+  }
+}

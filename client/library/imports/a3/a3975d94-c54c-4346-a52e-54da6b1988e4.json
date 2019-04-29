@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_create_room.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "border_edit_titleback": {
+      "__uuid__": "68428500-4d81-423a-88e5-360bc502baba"
+    },
+    "btn_create_room": {
+      "__uuid__": "0c1049a6-5dbe-4547-b0f1-74b2a9b1b7bd"
+    },
+    "btn_edit_blue": {
+      "__uuid__": "c196ff85-ec24-4b9e-b5c7-12e75720502c"
+    },
+    "btn_edit_close": {
+      "__uuid__": "b8f9bd55-899b-496f-992e-973315bc13eb"
+    },
+    "btn_edit_help": {
+      "__uuid__": "17451694-a697-403c-90cb-c5ec982333b4"
+    },
+    "btn_edit_play": {
+      "__uuid__": "82ab7e54-eb97-4bdb-84bd-8ef6648bd56c"
+    },
+    "btn_edit_yellow": {
+      "__uuid__": "f83d0eb9-0301-43ba-85a4-ff7b55cf91c3"
+    },
+    "btn_exit_edit": {
+      "__uuid__": "1a9a2fb0-3085-4929-b227-e775fb6cefcb"
+    },
+    "btn_radiobox": {
+      "__uuid__": "4f49bcbb-9078-42c0-9aa6-b42308ae848e"
+    },
+    "btn_radiobox_bg": {
+      "__uuid__": "4aede7eb-9c6d-402a-81ed-8e7b0e53127c"
+    },
+    "icon_arrow": {
+      "__uuid__": "57803e2d-d94f-4668-994d-3caa332408be"
+    },
+    "icon_hot_sign": {
+      "__uuid__": "20ea9734-bb2f-4d32-9c58-4fce441aa456"
+    },
+    "icon_limit_sign": {
+      "__uuid__": "4b0e04ed-3913-4769-a137-38dcdb0726d3"
+    },
+    "icon_new_sign": {
+      "__uuid__": "5e7d3272-71a1-4819-99cd-cf86366a0d7d"
+    },
+    "icon_title_create_room": {
+      "__uuid__": "9df84e26-9dee-4510-b483-c446a72ae5f8"
+    },
+    "icon_title_edit_play": {
+      "__uuid__": "419b18d4-8e95-4fb4-8730-d0ec2faa2739"
+    },
+    "icon_title_lan": {
+      "__uuid__": "221312f5-029f-4ff7-b526-52ceac92414a"
+    },
+    "image_dibian": {
+      "__uuid__": "dc5479c4-ceaa-47ef-ae68-0356bec12fa6"
+    },
+    "new_btn_checkbox": {
+      "__uuid__": "8cb52a9d-2dac-4635-90e1-05b9fd069ff1"
+    },
+    "new_btn_checkbox_grey": {
+      "__uuid__": "663c062f-6c4b-4e71-a13d-58c200dfb01e"
+    },
+    "new_btn_checkbox_mark": {
+      "__uuid__": "407a059c-d55f-4d32-82be-4461ee660b27"
+    },
+    "new_create_room_close": {
+      "__uuid__": "8288252d-2319-4cb0-ad89-7c39cfb11206"
+    },
+    "new_create_room_free": {
+      "__uuid__": "a53f0e57-a6fb-4b9c-b238-9cc4aad0b67b"
+    }
+  }
+}

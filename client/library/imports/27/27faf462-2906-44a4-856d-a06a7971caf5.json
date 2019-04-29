@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_public_btn.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "btn_blue": {
+      "__uuid__": "f7272827-cabd-4521-9f0b-326760f390f6"
+    },
+    "btn_blue_big": {
+      "__uuid__": "36b37e18-3b85-49b2-b9b4-c81d79e5976a"
+    },
+    "btn_blue_small": {
+      "__uuid__": "1db2d94a-c226-4250-bb06-c51823d65b36"
+    },
+    "btn_close": {
+      "__uuid__": "74ac1ae1-d7f3-4f5a-be41-b218fde0f51f"
+    },
+    "btn_copy_wx": {
+      "__uuid__": "60d57099-ec68-4df1-ab81-c49d9baef127"
+    },
+    "btn_tap_blue": {
+      "__uuid__": "ea516c45-85b3-470c-9f96-d8d29f53a73e"
+    },
+    "btn_tap_yellow": {
+      "__uuid__": "1f8ea2c4-3479-4644-af28-f3139c43fa89"
+    },
+    "btn_yellow": {
+      "__uuid__": "a4432f9f-1013-46aa-8f7c-305d85fd8696"
+    },
+    "btn_yellow_big": {
+      "__uuid__": "fd1dc0ec-0468-408d-b728-8d115aa41591"
+    },
+    "btn_yellow_small": {
+      "__uuid__": "f0779bc0-2cb3-4b61-84b2-44286b8e6bd6"
+    },
+    "icon_btn_appeal": {
+      "__uuid__": "fec458d4-1836-41b8-af8e-2a30d3bf0a3a"
+    },
+    "icon_btn_cancel": {
+      "__uuid__": "11aec8ec-6e36-48cd-b6af-aa39c1228432"
+    },
+    "icon_btn_close": {
+      "__uuid__": "85371e95-f842-46ae-9c4a-d02af7b0f635"
+    },
+    "icon_btn_gotit": {
+      "__uuid__": "0a650ae4-c3b2-4a55-b4fc-82bd5795ac33"
+    },
+    "icon_btn_goto": {
+      "__uuid__": "3edf50c5-ae84-4659-a182-a2c93f80a084"
+    },
+    "icon_btn_share": {
+      "__uuid__": "fdf2d859-6bd5-4ac2-8509-94b1571db4df"
+    },
+    "icon_btn_sure": {
+      "__uuid__": "1af87852-1ad2-423b-9359-416bea3b8e13"
+    },
+    "icon_open_wx": {
+      "__uuid__": "93230911-fe7a-4f6b-9855-799b2cef7504"
+    },
+    "new_btn_back": {
+      "__uuid__": "b7ca8a86-34d7-4e40-b93d-3e2d6e543f0b"
+    },
+    "new_btn_copy": {
+      "__uuid__": "c69aed65-cf47-47d6-982d-b54a00f3b1cc"
+    },
+    "new_btn_enter": {
+      "__uuid__": "1156fad9-5573-4b25-820e-80912c041ef0"
+    },
+    "new_icon_allow": {
+      "__uuid__": "5f9968f2-d857-4ec5-b59e-b62c1b1b67d9"
+    },
+    "new_icon_commit": {
+      "__uuid__": "edd36a6a-4d60-44d4-9654-622ecb9e6ee5"
+    },
+    "new_icon_copy_onekey": {
+      "__uuid__": "9f22bd80-3233-4faf-a5b7-16ef23db7b5d"
+    },
+    "new_icon_go_setting": {
+      "__uuid__": "f52858de-f382-4194-8814-72feadef337b"
+    },
+    "new_icon_noallow": {
+      "__uuid__": "cafde4e1-b421-4dd0-a9b9-b169e43750af"
+    }
+  }
+}

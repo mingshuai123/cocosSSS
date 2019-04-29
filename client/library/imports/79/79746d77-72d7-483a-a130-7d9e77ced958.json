@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "n_icon_shop_gold",
+    "texture": "b289f97d-e5e6-4e42-b43c-eaa756731c8e",
+    "atlas": "75da6be1-c124-428e-b4f9-10d249c03f47",
+    "rect": [
+      224,
+      352,
+      124,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      135
+    ],
+    "rotated": 1
+  }
+}

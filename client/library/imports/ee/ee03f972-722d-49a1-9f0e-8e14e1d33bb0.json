@@ -1,0 +1,101 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_main_scene.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "btn_add": {
+      "__uuid__": "e4556e60-dca1-4360-99c3-c99f24e47ac2"
+    },
+    "btn_anquanrenzheng": {
+      "__uuid__": "feed4031-1044-442c-8d35-39871691680b"
+    },
+    "btn_coinroom": {
+      "__uuid__": "1d08c952-9c3b-435b-a447-28fb40ff19d8"
+    },
+    "btn_createroom": {
+      "__uuid__": "089854a4-98b5-4f52-98cb-ad694b0bcda1"
+    },
+    "btn_guild": {
+      "__uuid__": "ec89ef10-41d0-410c-8f8b-cbb700d944c8"
+    },
+    "btn_guild_chunjie": {
+      "__uuid__": "531fe44a-0e7d-4af0-8203-641bfa9c9445"
+    },
+    "btn_joinroom": {
+      "__uuid__": "4263601f-3111-4175-9581-085a102bd8d1"
+    },
+    "btn_match": {
+      "__uuid__": "1a9897e0-d75b-4a92-81cc-e782c2d2d7ff"
+    },
+    "btn_more": {
+      "__uuid__": "f4feca93-8539-488b-82f7-1ec62ab662c7"
+    },
+    "fjts_fzwf": {
+      "__uuid__": "b75225c5-5987-43aa-a68e-c647a02516d3"
+    },
+    "fjts_ndwf": {
+      "__uuid__": "851d3759-c188-4209-bf9b-4a1a2904584b"
+    },
+    "fjts_qzwf": {
+      "__uuid__": "2f7bb2cd-dd55-4891-9dc7-e850edc8fd22"
+    },
+    "frame_di": {
+      "__uuid__": "e6117610-e459-436b-bd70-60617a69fa50"
+    },
+    "frame_more": {
+      "__uuid__": "894647c5-14dc-486d-b3d0-2fdbeada27ee"
+    },
+    "icon_activity": {
+      "__uuid__": "e80f2010-20bf-449d-8cee-e6aafce779f8"
+    },
+    "icon_back_main_room": {
+      "__uuid__": "d770da33-f5f3-4c74-9eaf-3810b960691a"
+    },
+    "icon_coin": {
+      "__uuid__": "2bce2e00-3d40-4d6b-a6b1-f1a2338b9645"
+    },
+    "icon_create_room": {
+      "__uuid__": "c16f72c4-14ca-42bd-a07c-2f6b7740d06a"
+    },
+    "icon_fangka": {
+      "__uuid__": "f95368c3-9a00-4393-8ef5-22a18d597bb8"
+    },
+    "icon_kefu": {
+      "__uuid__": "5771e340-ef87-47a4-ab59-e62de3ca36e4"
+    },
+    "icon_laba": {
+      "__uuid__": "1a3bd88b-c691-496b-9950-e2dcac8f31cb"
+    },
+    "icon_message": {
+      "__uuid__": "56f579a6-435a-434d-8c1e-cf08d28c2348"
+    },
+    "icon_play": {
+      "__uuid__": "03775f74-78ba-41d2-9baf-97dd7a2120d3"
+    },
+    "icon_renzheng": {
+      "__uuid__": "ea72c84a-9d7a-48ae-8e9c-b017747f09da"
+    },
+    "icon_seprate_line": {
+      "__uuid__": "3357993b-5872-44d9-a7b7-adcc2ee4b2f0"
+    },
+    "icon_setting": {
+      "__uuid__": "8b39a3bb-d731-42d6-b022-0fabfbd0ea93"
+    },
+    "icon_share": {
+      "__uuid__": "c702cabe-bc35-465f-a619-a254c8546b1e"
+    },
+    "icon_shop": {
+      "__uuid__": "aa70d076-5fc4-484b-ad31-f67a1af994f1"
+    },
+    "icon_zhanji": {
+      "__uuid__": "148545a3-de63-415e-8589-1b10cbadff37"
+    },
+    "msgshow": {
+      "__uuid__": "a5e30a58-aa6d-44a6-b72c-997252d3fac5"
+    },
+    "renzheng001": {
+      "__uuid__": "bd72d6b9-c67a-4153-a288-5ee4a67dcb0f"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_shezhi",
+    "texture": "04135b57-cb0f-4063-9f85-70f90c2e5be9",
+    "atlas": "7d33d404-294e-4d84-aee9-f83af7eee12a",
+    "rect": [
+      160,
+      120,
+      68,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      70
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_win",
+    "texture": "ba9d1d89-0f3b-4e52-91ab-874f1dffcfe4",
+    "atlas": "c32da84f-d3f2-4327-8075-582cc04e1dbb",
+    "rect": [
+      403,
+      1411,
+      126,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      128
+    ]
+  }
+}

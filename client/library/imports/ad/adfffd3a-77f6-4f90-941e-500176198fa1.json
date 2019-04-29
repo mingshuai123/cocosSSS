@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dihu",
+    "texture": "d9c6ce2d-30c9-4618-b170-43803e521312",
+    "atlas": "b804f09d-945d-4c60-95dc-4472b74078aa",
+    "rect": [
+      371,
+      1509,
+      172,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      172,
+      86
+    ],
+    "rotated": 1
+  }
+}

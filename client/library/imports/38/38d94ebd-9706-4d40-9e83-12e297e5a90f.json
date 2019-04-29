@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ths-l",
+    "texture": "aa568523-a070-4b57-9108-e21f660265f3",
+    "atlas": "4aa36bff-2e84-48e5-830c-a7e3dbd3fbeb",
+    "rect": [
+      276,
+      272,
+      138,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      68
+    ]
+  }
+}

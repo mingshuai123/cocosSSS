@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "paibei.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "paibei-red": {
+      "__uuid__": "78303758-3b00-4f78-ad94-d2ecd3aebcab"
+    },
+    "黑透明": {
+      "__uuid__": "eeceab6c-7b71-4397-9188-6b457cfe294a"
+    }
+  }
+}

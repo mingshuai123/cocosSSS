@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "replayBtns.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "replayDiKuang1": {
+      "__uuid__": "ecb03779-be3d-41fd-8d43-f8a3ee3b2813"
+    },
+    "replayDiKuang2": {
+      "__uuid__": "90afaf8f-0df5-4fc1-901f-74644a944215"
+    },
+    "replayML1": {
+      "__uuid__": "22d0ea2d-92ba-4142-be4c-edf80d3e40e6"
+    },
+    "replayML11": {
+      "__uuid__": "2b67f31a-dd53-402c-9871-02d3de3c749f"
+    },
+    "replayML2": {
+      "__uuid__": "42d435dd-a514-4065-afa0-0c7369a38306"
+    },
+    "replayML21": {
+      "__uuid__": "f970335c-1d73-4dba-93d6-aa6793b325ec"
+    },
+    "replayML3": {
+      "__uuid__": "28beb12a-96df-4b0e-b779-f8287764e199"
+    },
+    "replayML31": {
+      "__uuid__": "85a9d4b9-c931-4299-9523-4efb2b851002"
+    },
+    "replayML5": {
+      "__uuid__": "cb06c977-a300-45ac-ad25-f5d03aab5fe9"
+    },
+    "replayML51": {
+      "__uuid__": "d1e51455-e0de-40f8-9907-b29630d3a18c"
+    },
+    "replayML6": {
+      "__uuid__": "56dc5036-e165-4677-96a7-e742a417a148"
+    },
+    "replayML61": {
+      "__uuid__": "85db649c-548d-42e5-9b63-45de33833b82"
+    },
+    "replayML7": {
+      "__uuid__": "aaa48fe2-2e38-4c2d-9389-7171a78462e7"
+    },
+    "replayML71": {
+      "__uuid__": "d9131e4f-ed54-43e6-8650-382c377b6ab8"
+    },
+    "replayML8": {
+      "__uuid__": "7527598c-5aee-4c26-a385-d3ff8fc31c6c"
+    },
+    "replayML81": {
+      "__uuid__": "7beaeae1-431b-4210-a1fc-7629b406959e"
+    }
+  }
+}

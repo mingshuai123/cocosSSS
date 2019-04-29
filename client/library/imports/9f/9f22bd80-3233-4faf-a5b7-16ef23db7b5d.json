@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_icon_copy_onekey",
+    "texture": "2fe593a7-de27-4273-ad0d-6f9783edb169",
+    "atlas": "27faf462-2906-44a4-856d-a06a7971caf5",
+    "rect": [
+      2,
+      1417,
+      164,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      164,
+      42
+    ],
+    "rotated": 1
+  }
+}

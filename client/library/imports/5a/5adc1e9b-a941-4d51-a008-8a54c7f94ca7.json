@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "E40B",
+    "texture": "20627f8c-97cf-4882-b8f9-f9b5555e9dbe",
+    "atlas": "3cae6960-3a3b-4d96-8c7b-288f5eded248",
+    "rect": [
+      64,
+      570,
+      62,
+      60
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      64,
+      64
+    ]
+  }
+}

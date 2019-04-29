@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dankeng1",
+    "texture": "58d13fb1-4b13-4025-810a-315aa747d98e",
+    "atlas": "cc0bb13c-4f30-46bc-8a30-b99a57a7afbb",
+    "rect": [
+      0,
+      0,
+      69,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      68
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_headframe.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "head_frame_11000": {
+      "__uuid__": "29acd20c-b185-408e-a69b-bb5e066af68a"
+    },
+    "head_frame_11001": {
+      "__uuid__": "812d34da-ccfe-4028-9806-b1cb93c1778b"
+    },
+    "head_frame_11002": {
+      "__uuid__": "368767d1-5b11-4f73-a9a2-39945ae7f1e9"
+    },
+    "head_frame_11003": {
+      "__uuid__": "478e564e-c239-4d9a-9062-7ed5a30fee4b"
+    },
+    "head_frame_11004": {
+      "__uuid__": "b5c6e980-c3da-432b-9ed8-7e5b7b5168e3"
+    },
+    "head_frame_11005": {
+      "__uuid__": "acd4509d-7c88-40b5-8944-6bf7a896309e"
+    },
+    "head_frame_11006": {
+      "__uuid__": "8022b9ad-e7cb-45b9-a0e0-0d35c3b9434c"
+    },
+    "head_frame_11007": {
+      "__uuid__": "afdc8f36-9073-4e93-9cdb-e3213d87f09f"
+    },
+    "head_frame_11008": {
+      "__uuid__": "deb7b34a-93e1-4936-90da-91c1010fae95"
+    },
+    "head_frame_11009": {
+      "__uuid__": "23ad2af2-c772-4ba3-aa88-5f46d4b6d55d"
+    },
+    "head_frame_12001": {
+      "__uuid__": "55e1c776-44db-4cca-bddb-c5edb1c1a332"
+    },
+    "head_frame_12002": {
+      "__uuid__": "a34d9b9a-4eee-4b61-a9e5-d33f289b3732"
+    },
+    "head_frame_12003": {
+      "__uuid__": "f59d5529-1d1b-43f0-a4c5-a3781ed69d49"
+    },
+    "head_frame_12004": {
+      "__uuid__": "d5dc59ae-355e-4242-a5de-b965ae431ef5"
+    },
+    "head_frame_12005": {
+      "__uuid__": "272ebafe-cd20-4bbd-b0d6-b54dd09c36ad"
+    },
+    "head_frame_12006": {
+      "__uuid__": "c66cd808-10f5-48e5-af1a-d627bea394a4"
+    },
+    "head_frame_12007": {
+      "__uuid__": "6b2b17a7-b158-4c8f-bc19-8506b8cce44d"
+    },
+    "head_frame_13001": {
+      "__uuid__": "915330aa-c4cc-4485-affb-a8861868866f"
+    },
+    "head_frame_13002": {
+      "__uuid__": "6ee81f4e-8cfe-46b7-9d9f-f4e35abdcfa1"
+    },
+    "head_frame_13003": {
+      "__uuid__": "d8533bfc-15b8-494e-9932-c621c31baa64"
+    },
+    "head_frame_13004": {
+      "__uuid__": "f3e7c9f5-541c-44ae-b854-377b29d03467"
+    },
+    "head_frame_13005": {
+      "__uuid__": "e5b82e2e-5059-4b93-84ab-a3a18b97d1d0"
+    },
+    "head_frame_13006": {
+      "__uuid__": "d56a76b9-d4d8-4b7c-baff-753bc515419f"
+    },
+    "head_frame_13007": {
+      "__uuid__": "fca4698f-6de8-4501-a9ec-1e927b8498d6"
+    },
+    "head_frame_13008": {
+      "__uuid__": "7a5b4424-9f12-47ab-8208-4a097afeeefd"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "摆牌页面",
+    "texture": "052f4afc-c013-44d0-8176-36a183e15da2",
+    "atlas": "529bc2a2-08ca-47cc-b2b5-3f23b6a418bf",
+    "rect": [
+      0,
+      910,
+      1280,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      720
+    ]
+  }
+}

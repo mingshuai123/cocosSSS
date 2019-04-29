@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhangzhoumajiangtitle1",
+    "texture": "4ee456a6-cb56-4ce8-9989-7f2c99b60e71",
+    "atlas": "77a22fa9-8c21-48d1-86d8-d06e42765995",
+    "rect": [
+      135,
+      1310,
+      132,
+      40
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      136,
+      44
+    ]
+  }
+}

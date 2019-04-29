@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "joinroom_icon_join",
+    "texture": "e2f1840d-b1a6-43a0-9bdb-d6af559d0b7f",
+    "atlas": "61d6a6c7-035e-46aa-a2bf-2e3f48a80902",
+    "rect": [
+      550,
+      2,
+      208,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      208,
+      58
+    ]
+  }
+}

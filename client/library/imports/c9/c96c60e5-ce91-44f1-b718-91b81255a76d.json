@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_title.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "icon_title_Idconfirm": {
+      "__uuid__": "36c04bee-93e8-4f44-8614-4fcbfc71f062"
+    },
+    "icon_title_activity": {
+      "__uuid__": "c0cf449e-d936-4e48-8966-b5a666b34f93"
+    },
+    "icon_title_frame": {
+      "__uuid__": "c705b1d9-a838-4e06-9adb-56a40d1a3156"
+    },
+    "icon_title_jiangli": {
+      "__uuid__": "640f4c8b-8eb1-4cb8-9152-cd7fa39ac2ff"
+    },
+    "icon_title_message": {
+      "__uuid__": "64c2a8cc-4e96-4491-9b55-19fb019a5526"
+    },
+    "icon_title_play": {
+      "__uuid__": "1c6568b4-1624-44ca-b363-2a9ecaee8434"
+    },
+    "icon_title_player": {
+      "__uuid__": "1904d156-5ed5-415f-81e6-224e7d7b1690"
+    },
+    "icon_title_share": {
+      "__uuid__": "a73d0f9b-84d9-467f-926d-a310639fafc7"
+    },
+    "icon_title_tip": {
+      "__uuid__": "1b2a8dc0-81b7-4fcd-a031-0828b366b7fb"
+    }
+  }
+}

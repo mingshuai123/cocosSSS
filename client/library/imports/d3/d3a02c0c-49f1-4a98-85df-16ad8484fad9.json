@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_public_icon.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "head_img_female": {
+      "__uuid__": "0172ee85-f5cc-44b4-b99d-9a5bd58cc981"
+    },
+    "head_img_male": {
+      "__uuid__": "fe04f6b4-13af-4aba-a85c-1e93e629573a"
+    },
+    "icon_circle": {
+      "__uuid__": "046c1943-072e-4f10-be4c-cfcf7a96691e"
+    },
+    "icon_frame": {
+      "__uuid__": "c193248d-78c0-4828-a074-4e5825c0ad15"
+    },
+    "icon_frame1": {
+      "__uuid__": "dc930acc-6916-40a6-8cd2-1b6e8c2cc137"
+    },
+    "icon_head_frame": {
+      "__uuid__": "6486dcc8-b4e3-42f3-8f9f-77fa36831d9e"
+    },
+    "icon_line": {
+      "__uuid__": "8c475d55-73ef-402a-9f09-f427f7ba6b87"
+    },
+    "icon_loading_circle": {
+      "__uuid__": "08bd784b-d1d8-48a8-b6b8-668fc668e41f"
+    },
+    "icon_loading_touzi": {
+      "__uuid__": "dd9d00a7-3616-4d91-813f-0c43767ed898"
+    },
+    "icon_main_head_frame": {
+      "__uuid__": "5817e3d4-4695-4cce-9619-bb00a3aa0a6f"
+    },
+    "icon_men": {
+      "__uuid__": "14433e54-06f0-4147-aa2d-85cd0d335323"
+    },
+    "icon_right": {
+      "__uuid__": "37d03f03-97d2-4fc6-9d7f-b6ce169b804f"
+    },
+    "icon_role": {
+      "__uuid__": "109bc6a4-022d-4e70-89bb-dcd3b3a38f67"
+    },
+    "icon_women": {
+      "__uuid__": "00f69914-5418-432e-ab1e-9b68c29d2189"
+    },
+    "new_public_icon_hot": {
+      "__uuid__": "d0df2713-d5f2-4f48-ae4f-aafaae89673b"
+    },
+    "new_public_icon_new": {
+      "__uuid__": "b193d143-3f9f-4016-8d08-be3cdf7759d8"
+    }
+  }
+}

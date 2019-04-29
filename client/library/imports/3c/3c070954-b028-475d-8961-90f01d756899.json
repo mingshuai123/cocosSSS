@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kaijinguang",
+    "texture": "9c00c591-18b9-4ad8-b48d-964781985489",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      315,
+      169
+    ],
+    "offset": [
+      -7,
+      -2
+    ],
+    "originalSize": [
+      329,
+      173
+    ]
+  }
+}

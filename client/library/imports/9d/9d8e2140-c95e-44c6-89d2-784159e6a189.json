@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tablequanzhou1",
+    "texture": "ba9d1d89-0f3b-4e52-91ab-874f1dffcfe4",
+    "atlas": "c32da84f-d3f2-4327-8075-582cc04e1dbb",
+    "rect": [
+      242,
+      2,
+      644,
+      47
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      650,
+      47
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paixing",
+    "texture": "aa568523-a070-4b57-9108-e21f660265f3",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      414,
+      883
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      414,
+      884
+    ]
+  }
+}

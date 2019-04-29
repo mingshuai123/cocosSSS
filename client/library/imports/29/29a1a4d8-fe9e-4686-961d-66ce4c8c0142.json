@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paibei",
+    "texture": "dc54f53c-1230-4dba-8943-0040e6c7a022",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      308,
+      234
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      308,
+      234
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_ting_dis",
+    "texture": "d9c6ce2d-30c9-4618-b170-43803e521312",
+    "atlas": "b804f09d-945d-4c60-95dc-4472b74078aa",
+    "rect": [
+      519,
+      1305,
+      85,
+      94
+    ],
+    "offset": [
+      -2,
+      -1
+    ],
+    "originalSize": [
+      91,
+      100
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pub_music",
+    "texture": "bac6edc0-b143-4c0c-9662-f96f7afeda11",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      194,
+      490
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      198,
+      494
+    ]
+  }
+}

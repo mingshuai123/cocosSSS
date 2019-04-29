@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "border_loser",
+    "texture": "49f7d2ff-cdc2-41b1-8f1e-15356bfa76b2",
+    "atlas": "f963b5c3-c175-4cab-8cb3-91be139192b2",
+    "rect": [
+      289,
+      2,
+      286,
+      450
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      286,
+      450
+    ]
+  }
+}

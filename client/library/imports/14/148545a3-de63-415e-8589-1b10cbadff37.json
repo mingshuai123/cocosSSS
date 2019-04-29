@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zhanji",
+    "texture": "7c7e0c37-163e-421a-8bac-5a9509d8e5d6",
+    "atlas": "ee03f972-722d-49a1-9f0e-8e14e1d33bb0",
+    "rect": [
+      161,
+      462,
+      122,
+      47
+    ],
+    "offset": [
+      -3,
+      -1
+    ],
+    "originalSize": [
+      130,
+      51
+    ],
+    "rotated": 1
+  }
+}

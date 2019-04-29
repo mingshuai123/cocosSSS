@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "yuanbao.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "yb_00": {
+      "__uuid__": "d494f484-65ff-4bfe-97ea-9610372ee876"
+    },
+    "yb_01": {
+      "__uuid__": "40df7021-1e61-45d9-bc9b-8d4554231143"
+    },
+    "yb_02": {
+      "__uuid__": "28990407-43f0-433f-9a50-f2f3abf7c175"
+    }
+  }
+}

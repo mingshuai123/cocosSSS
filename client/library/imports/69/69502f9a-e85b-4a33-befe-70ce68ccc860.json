@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "n_charge_bg1_sel",
+    "texture": "b289f97d-e5e6-4e42-b43c-eaa756731c8e",
+    "atlas": "75da6be1-c124-428e-b4f9-10d249c03f47",
+    "rect": [
+      278,
+      901,
+      80,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      79
+    ],
+    "capInsets": [
+      22,
+      22,
+      22,
+      22
+    ]
+  }
+}

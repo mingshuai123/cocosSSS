@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "changshamjbtn",
+    "texture": "d9c6ce2d-30c9-4618-b170-43803e521312",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      717,
+      2036
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      723,
+      2042
+    ]
+  }
+}

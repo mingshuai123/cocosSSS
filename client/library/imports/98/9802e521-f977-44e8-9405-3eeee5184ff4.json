@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kaijin",
+    "texture": "d897b85f-652d-483e-ade2-e4cc3b53c3e4",
+    "atlas": "",
+    "rect": [
+      9,
+      1,
+      161,
+      84
+    ],
+    "offset": [
+      4.5,
+      -0.5
+    ],
+    "originalSize": [
+      170,
+      85
+    ]
+  }
+}

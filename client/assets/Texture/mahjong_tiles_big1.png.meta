@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0def5247-85fa-4c45-9d7a-15d38b8c2547",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mahjong_tiles_big1": {
+      "ver": "1.0.3",
+      "uuid": "b7abeb52-0c56-4e80-a4cc-7840ea6b0606",
+      "rawTextureUuid": "0def5247-85fa-4c45-9d7a-15d38b8c2547",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 2029,
+      "height": 454,
+      "rawWidth": 2036,
+      "rawHeight": 460,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

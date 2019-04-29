@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_shop.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "btn_shop_duihuan": {
+      "__uuid__": "2b3c3257-a00c-421d-8070-2fa07039bf0c"
+    },
+    "charge_limit_flag": {
+      "__uuid__": "324b1369-6440-40dc-9847-a269188108fc"
+    },
+    "icon_buy_txt": {
+      "__uuid__": "6fbab071-e110-4ef9-bba1-318a3a189d3a"
+    },
+    "icon_fangka_txt": {
+      "__uuid__": "02662afb-662b-4350-94ce-c359bcdd79b1"
+    },
+    "icon_sale_out": {
+      "__uuid__": "55e3eb50-0fe8-4050-9265-80490d53a7fd"
+    },
+    "icon_shop_arrow": {
+      "__uuid__": "b579e876-4c0d-451f-9350-76181e65e39d"
+    },
+    "icon_shop_duihuan": {
+      "__uuid__": "e02508b1-6df6-4ca2-91e7-9c1bc8ece3b2"
+    },
+    "icon_shop_ten": {
+      "__uuid__": "a0e41718-7392-44b7-af55-89726e1d3e01"
+    },
+    "icon_title_shop": {
+      "__uuid__": "7d6638a3-e177-45de-8230-80a894e619c7"
+    },
+    "n_charge_bg1": {
+      "__uuid__": "b62c2ad7-f386-451c-a8e6-be35a0190484"
+    },
+    "n_charge_bg1_sel": {
+      "__uuid__": "69502f9a-e85b-4a33-befe-70ce68ccc860"
+    },
+    "n_charge_chongzhi1": {
+      "__uuid__": "bba12c7a-a217-4f88-9706-dcd5e0ab997e"
+    },
+    "n_charge_chongzhi2": {
+      "__uuid__": "d1e08b43-4a3d-4641-81ec-378f7738103d"
+    },
+    "n_charge_duihuan1": {
+      "__uuid__": "95792a6e-b9d1-42f8-bda0-9c10b264df9b"
+    },
+    "n_charge_duihuan2": {
+      "__uuid__": "9524ef44-52e1-48f1-ad3f-463cd9946628"
+    },
+    "n_charge_item1": {
+      "__uuid__": "5d2efed5-8b6e-47c7-83d8-15c09b0e0cae"
+    },
+    "n_charge_item2": {
+      "__uuid__": "a8f073a2-57b0-494e-b08f-7397e6be7f55"
+    },
+    "n_charge_item3": {
+      "__uuid__": "c228fb80-f9fa-4734-a956-9766a50d947c"
+    },
+    "n_charge_limit_flag": {
+      "__uuid__": "f9f3e05c-2e8d-4eec-9cd7-5f877671ac84"
+    },
+    "n_icon_sale_out": {
+      "__uuid__": "62c19436-28a4-4d69-9fbc-99ba19048d6d"
+    },
+    "n_icon_shop_add": {
+      "__uuid__": "b064c011-e0a5-4f4d-ad5c-bc861395e41a"
+    },
+    "n_icon_shop_gold": {
+      "__uuid__": "79746d77-72d7-483a-a130-7d9e77ced958"
+    },
+    "n_icon_shop_max": {
+      "__uuid__": "4e68d4a5-ffc4-425a-8eef-3d41ff6ef1e6"
+    },
+    "n_icon_shop_min": {
+      "__uuid__": "e6454ba8-b190-43a4-907c-a1172f9df694"
+    },
+    "n_icon_shop_reduce": {
+      "__uuid__": "fd309f52-0f54-4edf-8f5a-e797abeb83df"
+    }
+  }
+}

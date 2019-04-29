@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_setting_good_blue",
+    "texture": "8a367b68-f1f8-41b1-926f-d073a0ac48db",
+    "atlas": "64b32f64-02b3-4bc4-8da4-6023fdad8176",
+    "rect": [
+      487,
+      3,
+      183,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      88
+    ]
+  }
+}

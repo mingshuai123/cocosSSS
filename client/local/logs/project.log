@@ -1,0 +1,56 @@
+2019-04-28T02:16:29.976Z - normal: Load ~/.CocosCreator/settings.json
+2019-04-28T02:16:29.980Z - normal: checking language setting...
+2019-04-28T02:16:29.981Z - normal: Language: zh
+2019-04-28T02:16:32.052Z - success: protocol editor-framework registered
+2019-04-28T02:16:32.052Z - success: protocol app registered
+2019-04-28T02:16:32.052Z - success: protocol theme registered
+2019-04-28T02:16:32.052Z - success: protocol packages registered
+2019-04-28T02:16:32.053Z - success: protocol unpack registerred
+2019-04-28T02:16:32.053Z - success: protocol disable-commonjs registerred
+2019-04-28T02:16:32.359Z - normal: connected!
+2019-04-28T02:16:32.362Z - normal: Check project D:\work\funingGame\client
+2019-04-28T02:16:32.365Z - normal: Initializing Cocos2d
+2019-04-28T02:16:32.578Z - normal: Initializing Asset Database
+2019-04-28T02:16:32.704Z - success: protocol uuid registerred
+2019-04-28T02:16:32.705Z - success: protocol db registerred
+2019-04-28T02:16:32.705Z - success: protocol thumbnail registerred
+2019-04-28T02:16:32.706Z - normal: Loading editor/builtin packages
+2019-04-28T02:16:32.784Z - success: anysdk loaded
+2019-04-28T02:16:33.018Z - success: assets loaded
+2019-04-28T02:16:33.021Z - success: builder loaded
+2019-04-28T02:16:33.025Z - success: cocos-analytics loaded
+2019-04-28T02:16:33.029Z - success: console loaded
+2019-04-28T02:16:33.063Z - success: fb-instant-games loaded
+2019-04-28T02:16:33.067Z - success: hierarchy loaded
+2019-04-28T02:16:33.069Z - success: inspector loaded
+2019-04-28T02:16:33.070Z - success: keystore loaded
+2019-04-28T02:16:33.073Z - success: node-library loaded
+2019-04-28T02:16:33.075Z - success: package-asset loaded
+2019-04-28T02:16:33.077Z - success: preferences loaded
+2019-04-28T02:16:33.080Z - success: project-exporter loaded
+2019-04-28T02:16:33.097Z - success: project-importer loaded
+2019-04-28T02:16:33.099Z - success: project-settings loaded
+2019-04-28T02:16:33.101Z - success: ui-kit loaded
+2019-04-28T02:16:33.130Z - success: ui-grid loaded
+2019-04-28T02:16:33.134Z - success: scene loaded
+2019-04-28T02:16:33.136Z - success: sprite-editor loaded
+2019-04-28T02:16:33.139Z - success: store loaded
+2019-04-28T02:16:33.160Z - success: timeline loaded
+2019-04-28T02:16:33.160Z - normal: Loading builtin packages
+2019-04-28T02:16:33.215Z - success: asset-db-debugger loaded
+2019-04-28T02:16:33.219Z - success: code-editor loaded
+2019-04-28T02:16:33.221Z - success: color-picker loaded
+2019-04-28T02:16:33.228Z - success: package-manager loaded
+2019-04-28T02:16:33.232Z - success: qqplay-adapter loaded
+2019-04-28T02:16:33.237Z - success: sdkbox loaded
+2019-04-28T02:16:33.242Z - success: tester loaded
+2019-04-28T02:16:33.245Z - success: ui-kit-preview-extra loaded
+2019-04-28T02:16:33.247Z - success: ui-kit-preview loaded
+2019-04-28T02:16:33.249Z - success: ui-tree loaded
+2019-04-28T02:16:33.250Z - success: weapp-adapter loaded
+2019-04-28T02:16:35.537Z - normal: Initializing project D:\work\funingGame\client
+2019-04-28T02:16:35.572Z - normal: Loading packages
+2019-04-28T02:16:35.581Z - normal: Watching packages
+2019-04-28T02:16:36.308Z - normal: Run Application
+2019-04-28T02:16:47.390Z - success: preview server running at http://localhost:7456
+2019-04-28T02:16:57.728Z - normal: 1.9.3

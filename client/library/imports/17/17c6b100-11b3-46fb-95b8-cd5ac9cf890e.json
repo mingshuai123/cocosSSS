@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhangpingmajiang1",
+    "texture": "4ee456a6-cb56-4ce8-9989-7f2c99b60e71",
+    "atlas": "77a22fa9-8c21-48d1-86d8-d06e42765995",
+    "rect": [
+      265,
+      1745,
+      129,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      129,
+      41
+    ],
+    "rotated": 1
+  }
+}

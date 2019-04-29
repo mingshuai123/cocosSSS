@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "image_dibian",
+    "texture": "c7b09ba1-366f-4dd7-b281-39de7e3c8804",
+    "atlas": "a3975d94-c54c-4346-a52e-54da6b1988e4",
+    "rect": [
+      2,
+      81,
+      309,
+      344
+    ],
+    "offset": [
+      5,
+      -1
+    ],
+    "originalSize": [
+      319,
+      346
+    ],
+    "rotated": 1
+  }
+}

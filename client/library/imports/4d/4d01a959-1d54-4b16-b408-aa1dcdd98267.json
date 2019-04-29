@@ -1,0 +1,167 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "guild.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "btn_disable": {
+      "__uuid__": "113d7f8f-598b-4e38-b76c-c961ab8ec3b9"
+    },
+    "btn_playhelp": {
+      "__uuid__": "4df4e856-27a3-4fab-8728-3c752d7b31c2"
+    },
+    "icon_applyjoin": {
+      "__uuid__": "6ee00c09-f29a-4ed7-8515-12c1311ad7f6"
+    },
+    "icon_ask": {
+      "__uuid__": "983210bf-cc86-4a03-8985-3033c576927c"
+    },
+    "icon_cancel": {
+      "__uuid__": "f67b5993-8930-42f7-909b-b8e4cb7b16de"
+    },
+    "icon_canceled": {
+      "__uuid__": "06353b9a-6b6c-4c88-9dc0-aa5a7662d222"
+    },
+    "icon_create_l": {
+      "__uuid__": "145da560-2e15-4a36-8751-cd9b2ad51b41"
+    },
+    "icon_create_r": {
+      "__uuid__": "d93979d7-2010-4838-a83f-1051af09b8b4"
+    },
+    "icon_current": {
+      "__uuid__": "68b58c7f-c30f-4f7a-a61e-11c46868a908"
+    },
+    "icon_empty": {
+      "__uuid__": "17cf704e-c5d2-4633-809f-3496f070e350"
+    },
+    "icon_guild_enter": {
+      "__uuid__": "016dc445-9a43-48fc-9515-208fc379b964"
+    },
+    "icon_guild_more": {
+      "__uuid__": "21f7a9ca-f217-4f16-b354-0dbd16d90abf"
+    },
+    "icon_guild_record": {
+      "__uuid__": "397d01e4-e414-4b7c-9f15-30f17355c361"
+    },
+    "icon_guild_request_record": {
+      "__uuid__": "6bf1a9af-f5d2-4dac-b9ea-ba36694b1fc9"
+    },
+    "icon_guild_title_more": {
+      "__uuid__": "8e2b5d57-54c9-40d7-ac23-55cd145dafbd"
+    },
+    "icon_guildinvite": {
+      "__uuid__": "59612980-2cfb-4578-afae-84bae1498e67"
+    },
+    "icon_guildmsg": {
+      "__uuid__": "af885e30-489d-4cb7-9d5d-929d0d5eb20b"
+    },
+    "icon_help": {
+      "__uuid__": "be082982-93a4-46e8-ac2e-16ca02fb19c3"
+    },
+    "icon_help1": {
+      "__uuid__": "be14d386-7821-4e9b-a913-cc4daf4cf338"
+    },
+    "icon_ignore": {
+      "__uuid__": "161a26a6-2a84-45b3-8158-b7aa344b2b59"
+    },
+    "icon_invite": {
+      "__uuid__": "b54412c5-7af0-443d-b334-95f8e24e186a"
+    },
+    "icon_invite_disable": {
+      "__uuid__": "731ffc87-f762-4ecf-8f16-2b0fe1665412"
+    },
+    "icon_invited": {
+      "__uuid__": "b98cdba8-30b6-448e-9d7c-15f88467a10b"
+    },
+    "icon_inviteonline": {
+      "__uuid__": "feba982a-4228-4f44-a91f-dfa9354132fd"
+    },
+    "icon_joinguild": {
+      "__uuid__": "11853993-e10f-4a20-a8fa-d0ac4dc6594f"
+    },
+    "icon_member": {
+      "__uuid__": "0f9083a9-bc42-478a-a710-0c670cca3562"
+    },
+    "icon_my_club": {
+      "__uuid__": "ea00ccb8-c8d4-4af5-a21b-7f350207ce52"
+    },
+    "icon_nowgo": {
+      "__uuid__": "c8bf892d-9bd9-4f18-85a5-33ec7deac9dc"
+    },
+    "icon_nowjoin": {
+      "__uuid__": "b23e3e8a-0980-4db1-80ad-c6c770a1e525"
+    },
+    "icon_onekeyinvite": {
+      "__uuid__": "57f16d16-5e0f-4b86-895f-3621a048b3ee"
+    },
+    "icon_onekeyinvite_disable": {
+      "__uuid__": "437c3287-07a6-4f03-91d5-1c9b6591e00b"
+    },
+    "icon_quitguild": {
+      "__uuid__": "65c4e9b6-20e7-498a-ba79-0266d0771cc3"
+    },
+    "icon_rect1": {
+      "__uuid__": "eb7ffd3d-eb86-4401-9048-5cbb3771c120"
+    },
+    "icon_rect2": {
+      "__uuid__": "16341086-fddb-4221-abb9-93f8de9aed64"
+    },
+    "icon_rect3": {
+      "__uuid__": "095c17dd-680f-49fb-833a-b29e055f74ec"
+    },
+    "icon_rect4": {
+      "__uuid__": "1214fd20-e8e8-4a54-ad64-95357027527c"
+    },
+    "icon_rect5": {
+      "__uuid__": "7e849bfa-edda-4a56-bfb3-bea5c38bbd3a"
+    },
+    "icon_rect6": {
+      "__uuid__": "2bd749ce-c30a-4012-b156-e1df87a80e98"
+    },
+    "icon_rect7": {
+      "__uuid__": "386c5467-27a2-48e4-b414-1efa6a5c3115"
+    },
+    "icon_rect8": {
+      "__uuid__": "1b34b315-94f8-4c35-8296-360989a8d418"
+    },
+    "icon_rect_green": {
+      "__uuid__": "8ff827ec-5bc8-4b16-9772-1a63cdc849d7"
+    },
+    "icon_rect_red": {
+      "__uuid__": "75d919a2-0a0c-4822-b3b0-b88a0b415e4c"
+    },
+    "icon_refresh": {
+      "__uuid__": "0cb0c132-19d0-4e38-b087-720f27cf3220"
+    },
+    "icon_room": {
+      "__uuid__": "c513ee60-bbf5-4edd-860f-6ef65615ec89"
+    },
+    "icon_shape1": {
+      "__uuid__": "8c2783b7-691c-4c23-84c0-21f70a1e4435"
+    },
+    "icon_shape2": {
+      "__uuid__": "815165a6-c1e1-4954-8e79-5a71b2c9f1f4"
+    },
+    "icon_shape3": {
+      "__uuid__": "06609511-0869-4444-862f-d10505bc3813"
+    },
+    "icon_shape4": {
+      "__uuid__": "b1dbc127-37a9-48cc-ac51-a2b819e4f331"
+    },
+    "icon_shape5": {
+      "__uuid__": "7e372d2f-5c53-4bc3-81c3-fd150f6c1b86"
+    },
+    "icon_shape6": {
+      "__uuid__": "c83e443f-ea99-4251-bf83-fd57d939ca0e"
+    },
+    "icon_sure": {
+      "__uuid__": "6304a024-7b62-45cc-ab1d-8b9d6ed185ec"
+    },
+    "icon_title_room": {
+      "__uuid__": "8d072205-fabe-4a18-9aa2-1a5c49ae77f1"
+    },
+    "lan1": {
+      "__uuid__": "e4c2d1ce-9f1b-4c16-8bf1-3c31038eb7a5"
+    }
+  }
+}

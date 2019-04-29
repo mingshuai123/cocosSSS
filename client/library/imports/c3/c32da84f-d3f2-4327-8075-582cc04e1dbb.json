@@ -1,0 +1,209 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "play_scene.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "alarm_clock": {
+      "__uuid__": "de59e350-ef42-4fcb-89b9-91294c6ca531"
+    },
+    "banker_sign": {
+      "__uuid__": "a7f16e3f-1f75-4363-a29c-716dac52533d"
+    },
+    "btn_gang": {
+      "__uuid__": "c4d0078f-9004-4e7e-8c5a-44a2fc66f923"
+    },
+    "btn_guo": {
+      "__uuid__": "f7ec1ebf-5a42-4581-acad-7044df230362"
+    },
+    "btn_pass": {
+      "__uuid__": "fa060f82-ed3c-43a7-a8e7-c79d45c1336a"
+    },
+    "btn_peng": {
+      "__uuid__": "6e3a447c-5695-4460-8b14-c29810d29daf"
+    },
+    "btn_refresh": {
+      "__uuid__": "a43e8bb9-6782-48d2-99a4-faeffcf11dad"
+    },
+    "btn_setting": {
+      "__uuid__": "22a2e3b8-c603-4e47-804b-aa4ae791c3c3"
+    },
+    "btn_win": {
+      "__uuid__": "a1ba17e1-04ff-4f83-a5fa-7992f7899045"
+    },
+    "button_chatt": {
+      "__uuid__": "7ac1a3cb-c17d-4310-9cc2-c358231b3691"
+    },
+    "button_speak_off": {
+      "__uuid__": "604d687d-003e-4517-be13-5f3c5fce985a"
+    },
+    "button_speak_on": {
+      "__uuid__": "96d397b8-a158-49a4-993c-60ee28eea579"
+    },
+    "button_speakk": {
+      "__uuid__": "7451d4c5-ee9a-41b5-a748-7bccc82a1313"
+    },
+    "decision_sign_1": {
+      "__uuid__": "241bbecd-a7b2-45a6-ab31-06921be92d00"
+    },
+    "decision_sign_2": {
+      "__uuid__": "4ad64bc4-8cdb-49eb-957b-37892ad489c1"
+    },
+    "decision_sign_3": {
+      "__uuid__": "425a88e9-f867-4e7a-8154-6d306f54c288"
+    },
+    "decision_sign_4": {
+      "__uuid__": "213466dc-ac39-471f-8293-29071a751e93"
+    },
+    "dianzibiao01": {
+      "__uuid__": "bb82cf1b-560b-4c33-89b9-314bbcf02bbe"
+    },
+    "headallbk": {
+      "__uuid__": "cee9a5d0-3bcf-417f-9362-8b84fa302d59"
+    },
+    "headbk": {
+      "__uuid__": "e73fd916-9a03-4596-a04f-4cac7fbe3ec6"
+    },
+    "mahjong_title": {
+      "__uuid__": "9d9d001e-6896-4ee9-b5a3-09c515696443"
+    },
+    "msg_bubble_btm": {
+      "__uuid__": "b3bff020-a528-4cd4-b77a-afb6ab6f3508"
+    },
+    "msg_bubble_left": {
+      "__uuid__": "6dd43da5-57c4-4935-b8f3-bdf732e10601"
+    },
+    "msg_bubble_right": {
+      "__uuid__": "5d1e463c-8145-42e9-b789-ffb94e633507"
+    },
+    "msg_bubble_top": {
+      "__uuid__": "97ec9208-4174-46c5-947a-a70cc59478c5"
+    },
+    "off_line_sign": {
+      "__uuid__": "a1ba75ff-b176-4414-a486-b83bc5da1805"
+    },
+    "outmjtile_sign": {
+      "__uuid__": "0581756e-15bc-4c5f-b457-e17e6978a9db"
+    },
+    "play_frame_pop": {
+      "__uuid__": "b742752c-b015-4f10-ad8e-46ff21044a7c"
+    },
+    "play_point": {
+      "__uuid__": "1ea47c20-1a1f-495a-8f9c-b15aa6d0a3b2"
+    },
+    "play_scene_btn": {
+      "__uuid__": "7e2fd939-f5ad-4aeb-9c1a-55eff5d23f7a"
+    },
+    "play_scene_canceltuoGuan": {
+      "__uuid__": "64fcce1f-3810-43ee-9652-0614e73b1ad2"
+    },
+    "play_scene_change_jiantou": {
+      "__uuid__": "5684c27a-cd82-4919-a652-12b8f8d790f2"
+    },
+    "play_scene_chosed": {
+      "__uuid__": "0b87aea1-1ad7-404a-989e-dfb482f90c12"
+    },
+    "play_scene_chosing": {
+      "__uuid__": "63c00f4d-bb09-48ed-b639-0658da33d13a"
+    },
+    "play_scene_flower": {
+      "__uuid__": "db4405a1-6d00-4500-bc6e-de94da183e8a"
+    },
+    "play_scene_gold": {
+      "__uuid__": "fdc3ad8b-0e14-449e-abe3-79048702878f"
+    },
+    "play_scene_tuoguanBg": {
+      "__uuid__": "27b2265f-0a03-4cf6-a92f-d7d875cb6777"
+    },
+    "play_scene_yinying": {
+      "__uuid__": "9081c3d8-9eaf-4dcc-a967-efe9187ade0c"
+    },
+    "speaker1": {
+      "__uuid__": "5f9f9578-e62f-4418-af0d-f6b7f2117ae6"
+    },
+    "tableBamin": {
+      "__uuid__": "85df6177-97e2-420f-ae64-80cd1d131943"
+    },
+    "tableBamin_1": {
+      "__uuid__": "77cb0dad-02c9-4408-86e8-63d83b05425d"
+    },
+    "tableBamin_2": {
+      "__uuid__": "7bdb87ec-65aa-4996-b8bb-270e6c5203af"
+    },
+    "tableGuangze": {
+      "__uuid__": "1feba3bd-6ec4-412d-9d34-27cf95207f6a"
+    },
+    "tableHaixi": {
+      "__uuid__": "07238310-2d14-455b-b169-f9fa8b099b29"
+    },
+    "tableMinjiang": {
+      "__uuid__": "2d912a1f-5ead-4564-8844-2b4a5621bb02"
+    },
+    "tablefuzhou1": {
+      "__uuid__": "26aca154-a0e0-4fcf-97f9-4100d0dcf0f5"
+    },
+    "tablefuzhou2": {
+      "__uuid__": "38bc5b0d-cea8-4ae0-a541-ed6ba7c8d29e"
+    },
+    "tablelongyan1": {
+      "__uuid__": "eb968a1c-14b9-411f-b7a2-62bf38bb5323"
+    },
+    "tablelongyan2": {
+      "__uuid__": "32c0359a-18b3-43c4-8067-fa250cdcda4b"
+    },
+    "tablenanping1": {
+      "__uuid__": "d3e8481f-874d-4d26-b291-b27e243649e7"
+    },
+    "tablenanping2": {
+      "__uuid__": "14e09e2f-2ea6-4656-b327-4a7110d7d61f"
+    },
+    "tableningde1": {
+      "__uuid__": "b7869ba7-2f63-4137-9fba-8ef48ca0b81b"
+    },
+    "tableningde2": {
+      "__uuid__": "82a49189-b58a-42f7-8bb5-b7a28ade841f"
+    },
+    "tableputian1": {
+      "__uuid__": "bc5dd437-ecfe-4678-bbea-7da23308b79c"
+    },
+    "tableputian2": {
+      "__uuid__": "4c5b90cd-f89d-4f1f-a6b0-35c55ffecf1e"
+    },
+    "tablequanzhou1": {
+      "__uuid__": "9d8e2140-c95e-44c6-89d2-784159e6a189"
+    },
+    "tablequanzhou2": {
+      "__uuid__": "f95e076c-d293-4bc3-97f6-f7c785c65292"
+    },
+    "tablesanming1": {
+      "__uuid__": "9923d3c0-15b7-4073-b4d8-9f391ab012cd"
+    },
+    "tablesanming2": {
+      "__uuid__": "17c9ff05-726c-4537-8fe7-442cdeebd510"
+    },
+    "tablexiamen1": {
+      "__uuid__": "20bac855-0837-46ec-a459-f25a2ed3894c"
+    },
+    "tablexiamen2": {
+      "__uuid__": "5f33a4fc-f1bc-4aa2-82ee-15841a14b9b2"
+    },
+    "tablezhangzhou1": {
+      "__uuid__": "3296d65a-e6ed-424e-99c0-0ba9fe7d28f9"
+    },
+    "tablezhangzhou2": {
+      "__uuid__": "67fd9012-3240-48dd-a3fd-33cabb9116b8"
+    },
+    "turn_pos": {
+      "__uuid__": "25edea20-f5f2-4890-8746-e517da45cc19"
+    },
+    "turn_pos_bg": {
+      "__uuid__": "53c4119b-4c82-4391-9048-209823ebea42"
+    },
+    "turn_pos_bg_none": {
+      "__uuid__": "42c59127-90ad-4845-a94c-267874724760"
+    },
+    "turn_pos_none": {
+      "__uuid__": "ad3ac323-5e48-4568-9bc9-ce4a11c31e12"
+    }
+  }
+}

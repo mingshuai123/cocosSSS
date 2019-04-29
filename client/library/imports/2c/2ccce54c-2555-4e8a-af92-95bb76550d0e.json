@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_chat.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "new_chat_btn_send": {
+      "__uuid__": "2e8d7680-2f90-4d16-a6e4-bea785160868"
+    },
+    "new_chat_common": {
+      "__uuid__": "30796472-1695-4084-acd1-8ec2f7032760"
+    },
+    "new_chat_common2": {
+      "__uuid__": "e9372cd7-abbd-4003-8aa0-2dddf27f6d52"
+    },
+    "new_chat_emoji": {
+      "__uuid__": "9748dee6-7409-467b-ab6c-aa40a5382cf3"
+    },
+    "new_chat_emoji2": {
+      "__uuid__": "9ef41198-011f-4123-bbb0-6f2fee02e189"
+    },
+    "new_chat_frame": {
+      "__uuid__": "7f794522-3ae4-4933-a2e9-304e6f3f88b0"
+    },
+    "new_chat_line": {
+      "__uuid__": "cec81f89-0631-47c0-8023-c4d33634dd69"
+    },
+    "new_chat_not_selected": {
+      "__uuid__": "e45c12a4-6b6f-4b06-9d19-c5f8f63bcc51"
+    },
+    "new_chat_record": {
+      "__uuid__": "9a004569-dec1-4700-8990-37be6b4a2c2a"
+    },
+    "new_chat_record2": {
+      "__uuid__": "a3ce3430-3925-4f9c-9da7-7219df7781dc"
+    },
+    "new_chat_selected": {
+      "__uuid__": "2f8fc54d-6936-4db3-a30c-a1350f3db122"
+    },
+    "new_chat_words_frame": {
+      "__uuid__": "77f3cf7b-5fd1-4c9b-8421-7ea646e73322"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_hot_sign",
+    "texture": "c7b09ba1-366f-4dd7-b281-39de7e3c8804",
+    "atlas": "a3975d94-c54c-4346-a52e-54da6b1988e4",
+    "rect": [
+      931,
+      255,
+      77,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      70
+    ],
+    "rotated": 1
+  }
+}

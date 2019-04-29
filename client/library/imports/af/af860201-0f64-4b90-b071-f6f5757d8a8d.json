@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "input.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "btn_yellow": {
+      "__uuid__": "b40bb1ea-ca86-4189-b039-a2818b4635d5"
+    },
+    "del": {
+      "__uuid__": "a9c8c4ea-7d19-4ce9-b295-70caf321615f"
+    },
+    "di": {
+      "__uuid__": "72421ad5-db8a-4f64-97fb-eb6db9671578"
+    },
+    "guan": {
+      "__uuid__": "c85b5f82-c9fd-47a1-ab43-060f7d6f31da"
+    },
+    "input_bg": {
+      "__uuid__": "a3f73f9b-60d8-459b-946c-a6991b48d4af"
+    },
+    "num_bg": {
+      "__uuid__": "c6ac496f-f8df-4de5-a492-9a6586235870"
+    },
+    "retype": {
+      "__uuid__": "f9604c5e-6849-4419-a8cb-e7dcc1bac7a4"
+    },
+    "sehngqing": {
+      "__uuid__": "709185f8-e89f-47dd-b3fa-3dcbaf1532b1"
+    }
+  }
+}

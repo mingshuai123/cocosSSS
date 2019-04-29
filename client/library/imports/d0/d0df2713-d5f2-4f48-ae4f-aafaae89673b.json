@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "new_public_icon_hot",
+    "texture": "3bbc7e68-5611-4bd6-8ead-7b982c9144b5",
+    "atlas": "d3a02c0c-49f1-4a98-85df-16ad8484fad9",
+    "rect": [
+      158,
+      110,
+      69,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      63
+    ]
+  }
+}

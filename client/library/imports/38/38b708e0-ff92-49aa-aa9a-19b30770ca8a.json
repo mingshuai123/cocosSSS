@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hudejiaobiao1",
+    "texture": "94a75830-f259-4e49-8dba-0ec8ed0af2a1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      21
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paibg",
+    "texture": "3bea2f51-0d95-4eda-88a1-dc28614a0ca1",
+    "atlas": "",
+    "rect": [
+      279,
+      0,
+      1347,
+      479
+    ],
+    "offset": [
+      139.5,
+      135.5
+    ],
+    "originalSize": [
+      1626,
+      750
+    ]
+  }
+}

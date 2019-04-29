@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "new_login.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "btn_blue": {
+      "__uuid__": "7ca2eac7-618d-46b1-a31b-b71dba709ebe"
+    },
+    "btn_guest_down": {
+      "__uuid__": "9210f1b5-197f-409b-9caf-e3acd1346e6c"
+    },
+    "btn_guest_normal": {
+      "__uuid__": "c4f8987f-22c7-4584-bfc1-fe4a58c06239"
+    },
+    "btn_phone_down": {
+      "__uuid__": "cf702cc6-6169-4ec6-a166-470c21aa29c9"
+    },
+    "btn_phone_normal": {
+      "__uuid__": "4c038727-007a-44dd-b871-41c47a97b3da"
+    },
+    "btn_wx_down": {
+      "__uuid__": "ee59db4c-a61d-423b-b153-7fd55b7a5a5e"
+    },
+    "btn_wx_normal": {
+      "__uuid__": "893b62ff-c62b-4826-909e-9c9b05e5e67d"
+    },
+    "login_slider": {
+      "__uuid__": "0ec82c18-f609-47c6-a0d8-96912e86aa10"
+    },
+    "login_slider_back": {
+      "__uuid__": "b5baccb4-b040-4463-8d67-ef8bcebb0982"
+    },
+    "login_touzi": {
+      "__uuid__": "029d3043-466d-4082-88d9-4456cd3d37aa"
+    },
+    "logo": {
+      "__uuid__": "9109c520-906b-48eb-87c1-134aeed3f18e"
+    }
+  }
+}

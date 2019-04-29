@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paimask",
+    "texture": "70b45e25-abc2-4362-912b-43a8ff4e2a36",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      154,
+      234
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      154,
+      234
+    ]
+  }
+}

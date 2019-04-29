@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "del",
+    "texture": "40001b69-813d-4293-bf84-2e4a04a85e0b",
+    "atlas": "af860201-0f64-4b90-b071-f6f5757d8a8d",
+    "rect": [
+      300,
+      0,
+      120,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      70
+    ]
+  }
+}
